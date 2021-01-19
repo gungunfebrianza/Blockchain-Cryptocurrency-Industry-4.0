@@ -4,6 +4,8 @@ Written by Gun Gun Febrianza
 
 Kata **Revolution** mengacu pada pristiwa perubahan radikal secara mendadak. Revolusi karena teknologi mengubah sistem ekonomi dan struktur sosial. Kata **Industry** mengacu pada produksi barang dan jasa menggunakan teknologi dan kata **Industrialization** digunakan untuk menjelaskan perkembangan suatu industri dalam skala besar.
 
+Akar dari proses **industrialization** adalah pesatnya perkembangan ilmu pengetahuan ilmiah (**Scientific Knowledge**) dan teknologi.
+
 **Blockchain Technology**
 
 Teknologi yang menyediakan transparansi dan data yang tidak dapat dimanipulasi.
