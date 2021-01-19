@@ -6,6 +6,10 @@ Kata **Revolution** mengacu pada pristiwa perubahan radikal secara mendadak. Rev
 
 Akar dari proses **industrialization** adalah pesatnya perkembangan ilmu pengetahuan ilmiah (**Scientific Knowledge**) dan teknologi.
 
+Terminologi **Industrial Revolution** pertama kali digunakan pada periode tahun 1770s sampai pertengahan tahun 1870s, sebuah masa dimana tenaga manusia akhirnya diganti oleh teknologi berbasis listrik dan mekanik.
+
+
+
 **Blockchain Technology**
 
 Teknologi yang menyediakan transparansi dan data yang tidak dapat dimanipulasi.
