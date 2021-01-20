@@ -32,6 +32,8 @@ Ada dua barang dan jasa :
 
 Final Good & Service adalah barang dan jasa yang menjadi produk akhir, bukan barang dan jasa yang menjadi komponen untuk produk barang dan jasa lainnya. Intermediate Good & Service adalah barang dan jasa yang menjadi komponen sebuah Final Good & Service.
 
+Sebagai Contoh Mobil Tesla adalah barang jadi yang sudah selesai (final good), jika roda ban tesla ternyata menggunakan Ban Cianjur dengan merk "Ban Aspal" maka Ban Aspal adalah Intermediate Good. Namun Jika anda menggantinya menggunakan Ban Bridgestone, maka Ban Bridgestone adalah Final Good.
+
 **Blockchain Technology**
 
 Teknologi yang menyediakan transparansi dan data yang tidak dapat dimanipulasi.
