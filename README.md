@@ -16,7 +16,21 @@ Para pengusaha dan pembisnis yang hendak menentukan keputusan (decision) menging
 
 Pemerintah menginginkan jawaban karena jumlah pendapatan pajak tergantung dari seberapa banyak masyarakatnya mendapatkan (earn) dan menghabiskan (spend) uang, yang kadarnya tergantung kondisi ekonomi. 
 
-Nilai akhir barang (goods) dan jasa (service) seluruh market di suatu negara dalam kurun waktu tertentu. 
+Untuk memeriksa kondisi ekonomi kita kita harus mengukur **Gross Domestic Product** (GDP), nilai akhir barang (goods) dan jasa (service) seluruh market di suatu negara dalam kurun waktu tertentu. 
+
+1. Value Produced
+2. What Produced
+3. Where Produced
+4. When Produced
+
+## What Produced
+
+Ada dua barang dan jasa :
+
+1. Final Good & Service
+2. Intermediate Good & Service
+
+Final Good & Service adalah barang dan jasa yang menjadi produk akhir, bukan barang dan jasa yang menjadi komponen untuk produk barang dan jasa lainnya. Intermediate Good & Service adalah barang dan jasa yang menjadi komponen sebuah Final Good & Service.
 
 **Blockchain Technology**
 
