@@ -23,9 +23,13 @@ Untuk memeriksa kondisi ekonomi kita kita harus mengukur **Gross Domestic Produc
 3. Where Produced
 4. When Produced
 
+## Value Produced
+
+Untuk mengukur total production, sebagai contoh kita dapat menghitung total produksi apel dan jeruk.  Jika saat ini petani hanya mampu memproduksi 10 apel seharga 100 rupiah dan 20 jeruk seharga 200 rupiah, maka total market value dari apel adalah 1000 rupiah dan jeruk 2000 rupiah. Jadi Value yang diproduksi dua pasar tersebut adalah 3000 rupiah.
+
 ## What Produced
 
-Ada dua barang dan jasa :
+Ada dua barang (good) dan jasa (service) :
 
 1. Final Good & Service
 2. Intermediate Good & Service
@@ -33,6 +37,8 @@ Ada dua barang dan jasa :
 Final Good & Service adalah barang dan jasa yang menjadi produk akhir, bukan barang dan jasa yang menjadi komponen untuk produk barang dan jasa lainnya. Intermediate Good & Service adalah barang dan jasa yang menjadi komponen sebuah Final Good & Service.
 
 Sebagai Contoh Mobil Tesla adalah barang jadi yang sudah selesai (final good), jika roda ban tesla ternyata menggunakan Ban Cianjur dengan merk "Ban Aspal" maka Ban Aspal adalah Intermediate Good. Namun Jika anda menggantinya menggunakan Ban Bridgestone, maka Ban Bridgestone adalah Final Good.
+
+GDP tidak menghitung semua nilai yang diproduksi hanya barang dan jasa yang diperdagangkan di pasar (market). GDP Tidak menghitung barang dan jasa yang diciptakan untuk keperluan diri sendiri. 
 
 **Blockchain Technology**
 
