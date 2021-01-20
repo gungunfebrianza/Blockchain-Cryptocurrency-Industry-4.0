@@ -14,6 +14,8 @@ Bagaimana nasib ekonomi indonesia? Apakah akan mengalami pertumbuhan ekonomi ata
 
 Para pengusaha dan pembisnis yang hendak menentukan keputusan (decision) menginginkan jawaban agar rencana production mereka sesuai dengan permintaan (demand). 
 
+Pemerintah menginginkan jawaban karena jumlah pendapatan pajak tergantung dari seberapa banyak masyarakatnya mendapatkan (earn) dan menghabiskan (spend) uang, yang kadarnya tergantung kondisi ekonomi. 
+
 Nilai akhir barang (goods) dan jasa (service) seluruh market di suatu negara dalam kurun waktu tertentu. 
 
 **Blockchain Technology**
