@@ -40,6 +40,12 @@ Sebagai Contoh Mobil Tesla adalah barang jadi yang sudah selesai (final good), j
 
 GDP tidak menghitung semua nilai yang diproduksi hanya barang dan jasa yang diperdagangkan di pasar (market). GDP Tidak menghitung barang dan jasa yang diciptakan untuk keperluan diri sendiri. 
 
+# Where Produced 
+
+Hanya barang dan jasa yang diproduksi di dalam negeri yang dihitung menjadi bagian dari GDP suatu negara. Sebagai contoh Nike Corporation, perusahaan amerika memproduksi sneaker di vietnam dan market value dari sepatu tersebut adalah bagian dari GDP negara Vietnam.
+
+# When Produced
+
 **Blockchain Technology**
 
 Teknologi yang menyediakan transparansi dan data yang tidak dapat dimanipulasi.
