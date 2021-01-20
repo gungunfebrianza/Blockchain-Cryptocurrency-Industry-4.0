@@ -1,4 +1,4 @@
-# Blockchain& Cryptocurrency Di Era Industry 4.0
+# Blockchain & Cryptocurrency Di Era Industry 4.0
 
 Written by Gun Gun Febrianza
 
@@ -6,9 +6,15 @@ Kata **Revolution** mengacu pada pristiwa perubahan radikal secara mendadak. Rev
 
 Akar dari proses **industrialization** adalah pesatnya perkembangan ilmu pengetahuan ilmiah (**Scientific Knowledge**) dan teknologi.
 
-Terminologi **Industrial Revolution** pertama kali digunakan pada periode tahun 1770s sampai pertengahan tahun 1870s, sebuah masa dimana tenaga manusia akhirnya diganti oleh teknologi berbasis listrik dan mekanik.
+**Industrial Revolution** menjelaskan pristiwa pada periode tahun 1770s sampai pertengahan tahun 1870s, sebuah masa dimana tenaga manusia akhirnya diganti oleh teknologi berbasis listrik dan mekanik. 
 
+# Gross Domestic Product (GDP)
 
+Bagaimana nasib ekonomi indonesia? Apakah akan mengalami pertumbuhan ekonomi atau penurunan ekonomi menuju resesi? 
+
+Para pengusaha dan pembisnis yang hendak menentukan keputusan (decision) menginginkan jawaban agar rencana production mereka sesuai dengan permintaan (demand). 
+
+Nilai akhir barang (goods) dan jasa (service) seluruh market di suatu negara dalam kurun waktu tertentu. 
 
 **Blockchain Technology**
 
