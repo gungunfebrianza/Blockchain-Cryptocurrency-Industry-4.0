@@ -46,6 +46,8 @@ Hanya barang dan jasa yang diproduksi di dalam negeri yang dihitung menjadi bagi
 
 # When Produced
 
+GDP mengukur value production dalam kurun waktu tertentu. Bisa per Quarter atau Annual per tahun, Quaterly GDP data sangat bagus untuk membaca perubahan ekonomi dalam jangka pendek dan Annualy GDP data untuk membaca trend jangka panjang yang akan datang.
+
 **Blockchain Technology**
 
 Teknologi yang menyediakan transparansi dan data yang tidak dapat dimanipulasi.
