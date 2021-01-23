@@ -12,7 +12,11 @@ Akar dari proses **industrialization** adalah pesatnya perkembangan ilmu pengeta
 
 # Science & Technology
 
-Terminologi Science dan Scientist pertama kali dipopulerkan oleh William Whewel diantara tahun 1830 sampai tahun 1840an. Terminologi Technology diklaim berawal dari buku karya tulis Jacob Bigelow's yang berjudul Elements of Technology (1829). Sebelum abad ke 19 terminologi dari natural philosophy disebut dengan science dan terminologi mechanical, practical dan art dianggap sebagai technology.
+Terminologi **Science** dan **Scientist** pertama kali dipopulerkan oleh **William Whewel** diantara tahun 1830 sampai tahun 1840an. Terminologi **Technology** diklaim berawal dari buku karya tulis **Jacob Bigelow's** yang berjudul **Elements of Technology** (1829). Sebelum abad ke 19 terminologi dari **natural philosophy** disebut dengan **science** dan terminologi **mechanical**, **practical** dan **art** dianggap sebagai **technology**.
+
+Terminologi **Engineering** dan **Engineer** berasal dari akar pemikiran yang sangat lama kembali ke masa **Reinassance**, saat itu nama latin dari **engineer** adalah **ingenium**. Saat itu **Ingenium** adalah sebuah simbol kercerdasan dan orang tersebut memiliki kegiatan dengan peralatan perang.
+
+
 
 # Gross Domestic Product (GDP)
 
