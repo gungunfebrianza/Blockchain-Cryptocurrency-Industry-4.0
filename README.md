@@ -2,11 +2,17 @@
 
 Written by Gun Gun Febrianza
 
+# Industrial Revolution
+
 Kata **Revolution** mengacu pada pristiwa perubahan radikal secara mendadak. Revolusi karena teknologi mengubah sistem ekonomi dan struktur sosial. Kata **Industry** mengacu pada produksi barang dan jasa menggunakan teknologi dan kata **Industrialization** digunakan untuk menjelaskan perkembangan suatu industri dalam skala besar.
 
 Akar dari proses **industrialization** adalah pesatnya perkembangan ilmu pengetahuan ilmiah (**Scientific Knowledge**) dan teknologi.
 
 **Industrial Revolution** menjelaskan pristiwa pada periode tahun 1770s sampai pertengahan tahun 1870s, sebuah masa dimana tenaga manusia akhirnya diganti oleh teknologi berbasis listrik dan mekanik. Hasilnya adalah perubahan **manufacturing** dan metode **production**, kultur bekerja dan lahirnya model transportasi dan infrastruktur terbaru untuk masyarakat.
+
+# Science & Technology
+
+Terminologi Science dan Scientist pertama kali dipopulerkan oleh William Whewel diantara tahun 1830 sampai tahun 1840an. Terminologi Technology diklaim berawal dari buku karya tulis Jacob Bigelow's yang berjudul Elements of Technology (1829). Sebelum abad ke 19 terminologi dari natural philosophy disebut dengan science dan terminologi mechanical, practical dan art dianggap sebagai technology.
 
 # Gross Domestic Product (GDP)
 
