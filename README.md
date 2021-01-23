@@ -18,7 +18,9 @@ Terminologi **Engineering** dan **Engineer** berasal dari akar pemikiran yang sa
 
 Penggunaan yang lebih luas terminologi **engineer** mengacu kepada seorang **designer** yang memiliki kemampuan untuk membuat sebuah peralatan, baik peralatan militer ataupun sipil. Hal ini pernah dilakukan oleh **John Smeaton** pada abad ke 18 yang menegaskan dirinya adalah seorang **Civil Engineer**.
 
-Semenjak zaman Yunani Kuno sampai abad ke 18 terdapat perbedaan sosial antara Science dan Technology. Science dilihat sebagai cabang dari ilmu Philosophy dan terasosiasi dengan orang kelas atas dan elit. Saat Universitas-universitas mulai dibuka di abad pertengahan edukasi tentang philosophy muncul di universitas dan sekolah medis.
+Semenjak zaman Yunani Kuno sampai abad ke 18 terdapat perbedaan sosial antara **Science** dan **Technology**. Science dilihat sebagai cabang dari ilmu **Philosophy** dan terasosiasi dengan orang kelas atas dan elit. Saat Universitas-universitas mulai dibuka di abad pertengahan edukasi tentang philosophy muncul di universitas dan sekolah medis. Saat itu segala tentang Teknologi dan **Mechanical Art** diasosiasikan dengan orang kelas pekerja, terkadang budak. 
+
+**Scientific Knowledge** dinyatakan lulus melalui tradisi menulis **textbook** sementara **Technical Knowledge** dinyatakan lulus melalui sistem kerja magang yang terjadi kontak langsung antara guru dan pekerja magang.
 
 
 
