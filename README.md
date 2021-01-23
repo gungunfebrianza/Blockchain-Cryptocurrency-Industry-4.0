@@ -18,6 +18,10 @@ Terminologi **Engineering** dan **Engineer** berasal dari akar pemikiran yang sa
 
 Penggunaan yang lebih luas terminologi **engineer** mengacu kepada seorang **designer** yang memiliki kemampuan untuk membuat sebuah peralatan, baik peralatan militer ataupun sipil. Hal ini pernah dilakukan oleh **John Smeaton** pada abad ke 18 yang menegaskan dirinya adalah seorang **Civil Engineer**.
 
+Semenjak zaman Yunani Kuno sampai abad ke 18 terdapat perbedaan sosial antara Science dan Technology. Science dilihat sebagai cabang dari ilmu Philosophy dan terasosiasi dengan orang kelas atas dan elit. Saat Universitas-universitas mulai dibuka di abad pertengahan edukasi tentang philosophy muncul di universitas dan sekolah medis.
+
+
+
 # Gross Domestic Product (GDP)
 
 Bagaimana nasib ekonomi indonesia? Apakah akan mengalami pertumbuhan ekonomi atau penurunan ekonomi menuju resesi? 
