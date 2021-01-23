@@ -16,17 +16,17 @@ Terminologi **Science** dan **Scientist** pertama kali dipopulerkan oleh **Willi
 
 Terminologi **Engineering** dan **Engineer** berasal dari akar pemikiran yang sangat lama kembali ke masa **Reinassance**, saat itu nama latin dari **engineer** adalah **ingenium**. Saat itu **Ingenium** adalah sebuah simbol kercerdasan dan orang tersebut memiliki kegiatan dengan peralatan perang.
 
-
+Penggunaan yang lebih luas terminologi **engineer** mengacu kepada seorang **designer** yang memiliki kemampuan untuk membuat sebuah peralatan, baik peralatan militer ataupun sipil. Hal ini pernah dilakukan oleh **John Smeaton** pada abad ke 18 yang menegaskan dirinya adalah seorang **Civil Engineer**.
 
 # Gross Domestic Product (GDP)
 
 Bagaimana nasib ekonomi indonesia? Apakah akan mengalami pertumbuhan ekonomi atau penurunan ekonomi menuju resesi? 
 
-Para pengusaha dan pembisnis yang hendak menentukan keputusan (decision) menginginkan jawaban agar rencana production mereka sesuai dengan permintaan (demand). 
+Para pengusaha dan pembisnis yang hendak menentukan keputusan (decision) menginginkan jawaban agar rencana production mereka sesuai dengan permintaan (**demand**). 
 
-Pemerintah menginginkan jawaban karena jumlah pendapatan pajak tergantung dari seberapa banyak masyarakatnya mendapatkan (earn) dan menghabiskan (spend) uang, yang kadarnya tergantung kondisi ekonomi. 
+Pemerintah menginginkan jawaban karena jumlah pendapatan pajak tergantung dari seberapa banyak masyarakatnya mendapatkan (**earn**) dan menghabiskan (**spend**) uang, yang kadarnya tergantung kondisi ekonomi. 
 
-Untuk memeriksa kondisi ekonomi kita kita harus mengukur **Gross Domestic Product** (GDP), nilai akhir barang (goods) dan jasa (service) seluruh market di suatu negara dalam kurun waktu tertentu. 
+Untuk memeriksa kondisi ekonomi kita kita harus mengukur **Gross Domestic Product** (GDP), nilai akhir barang (**goods**) dan jasa (**service**) seluruh market di suatu negara dalam kurun waktu tertentu. 
 
 1. Value Produced
 2. What Produced
@@ -44,7 +44,7 @@ Ada dua barang (good) dan jasa (service) :
 1. Final Good & Service
 2. Intermediate Good & Service
 
-Final Good & Service adalah barang dan jasa yang menjadi produk akhir, bukan barang dan jasa yang menjadi komponen untuk produk barang dan jasa lainnya. Intermediate Good & Service adalah barang dan jasa yang menjadi komponen sebuah Final Good & Service.
+Final Good & Service adalah barang dan jasa yang menjadi produk akhir, bukan barang dan jasa yang menjadi komponen untuk produk barang dan jasa lainnya. **Intermediate Good & Service** adalah barang dan jasa yang menjadi komponen sebuah Final Good & Service.
 
 Sebagai Contoh Mobil Tesla adalah barang jadi yang sudah selesai (final good), jika roda ban tesla ternyata menggunakan Ban Cianjur dengan merk "Ban Aspal" maka Ban Aspal adalah Intermediate Good. Namun Jika anda menggantinya menggunakan Ban Bridgestone, maka Ban Bridgestone adalah Final Good.
 
@@ -56,7 +56,7 @@ Hanya barang dan jasa yang diproduksi di dalam negeri yang dihitung menjadi bagi
 
 # When Produced
 
-GDP mengukur value production dalam kurun waktu tertentu. Bisa per Quarter atau Annual per tahun, Quaterly GDP data sangat bagus untuk membaca perubahan ekonomi dalam jangka pendek dan Annualy GDP data untuk membaca trend jangka panjang yang akan datang.
+GDP mengukur value production dalam kurun waktu tertentu. Bisa per **Quarter** atau **Annual** per tahun, **Quaterly** GDP data sangat bagus untuk membaca perubahan ekonomi dalam jangka pendek dan **Annualy** GDP data untuk membaca **trend** jangka panjang yang akan datang.
 
 **Blockchain Technology**
 
