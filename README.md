@@ -6,7 +6,7 @@ Written by Gun Gun Febrianza
 
 Kata **Revolution** mengacu pada pristiwa perubahan radikal secara mendadak. Revolusi karena teknologi mengubah sistem ekonomi dan struktur sosial. Kata **Industry** mengacu pada produksi barang dan jasa menggunakan teknologi dan kata **Industrialization** digunakan untuk menjelaskan perkembangan suatu industri dalam skala besar.
 
-Akar dari proses **industrialization** adalah pesatnya perkembangan ilmu pengetahuan ilmiah (**Scientific Knowledge**) dan teknologi. Setiap kali terjadi revolusi terdapat perubahan pola pikir dalam bekerja.
+Akar dari proses **industrialization** adalah pesatnya perkembangan ilmu pengetahuan ilmiah (**Scientific Knowledge**) dan teknologi. 
 
 Sejarahnya awal mula revolusi industri ini terjadi di Inggris pada pertengahan abad ke 18, dari tahun 1750 sampai tahun 1850 yang didominasi oleh pengembangan **Steam Engine** dengan bahan bakar batu bara (**coal**) dan kemajuan mesin-mesin untuk industri tekstil. 
 
@@ -17,6 +17,14 @@ Sejarahnya awal mula revolusi industri ini terjadi di Inggris pada pertengahan a
 **Transportation** : Kuda, lembu dan hewan tunggangan darat lainnya diganti dengan rel kereta api dan transportasi laut menggunakan **Steamships**. 
 
 **Communication** : Pesan yang sebelumnya di bawa menggunakan manusia diganti menggunakan alat komunikasi instant seperti **Telegraph**.
+
+## Social Changes
+
+Perkembangan teknologi merubah cara orang-orang hidup dan bekerja, hingga bagaimana pemerintah mengatur dan mengendalikan. Sebelum revolusi industry, pekerja yang handal menjalankan family business seperti memintal benang (**Spinning Thread**) dan menenun kain (**Weaving Cloth**) di rumah. Kontrak kerja sama dilakukan dengan pedagang (**Merchant**). 
+
+## Political Changes
+
+
 
 Revolusi Industri kedua terjadi antara tahun 1850 sampai tahun 1940 yang secara dominan terjadi dibenua amerika dan eropa. Di dominasi oleh pengembangan **Internal Combustion Engine** dan Listrik (**Electricity**).
 
