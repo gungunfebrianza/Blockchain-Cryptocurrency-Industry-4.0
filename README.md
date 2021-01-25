@@ -22,6 +22,10 @@ Sejarahnya awal mula revolusi industri ini terjadi di Inggris pada pertengahan a
 
 Perkembangan teknologi merubah cara orang-orang hidup dan bekerja, hingga bagaimana pemerintah mengatur dan mengendalikan. Sebelum revolusi industry, pekerja yang handal menjalankan family business seperti memintal benang (**Spinning Thread**) dan menenun kain (**Weaving Cloth**) di rumah. Kontrak kerja sama dilakukan dengan pedagang (**Merchant**). 
 
+Akhir tahun 1700an industri rumahan (Cottage Industry) diganti oleh perusahaan-perusahaan besar. Membangun pabrik-pabrik dengan mesin-mesin yang mendisrupsi skill dan tenaga manusia. Jatuhnya skill dan tenaga manusia oleh mesin menimbulkan marjinalisasi.
+
+
+
 ## Political Changes
 
 
