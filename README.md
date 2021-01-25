@@ -44,13 +44,17 @@ Perdebatan moral terkait etika pemilik pabrik terhadap pekerja menjadi isu menar
 
 # Origin of Industrial Revolution
 
-Terminologi **Revolution** mulai popular pada akhir tahun 1800an diperkenalkan oleh seorang **British Sociologist** bernama **Arnold Toynbee**.
+Terminologi **Revolution** mulai popular pada akhir tahun 1800an diperkenalkan oleh seorang **British Sociologist** bernama **Arnold Toynbee**. Revolusi Industri terjadi secara bertahap ratusan tahun di eropa ditandai dengan tergantinya **Medieval Period** atau abad pertengahan (**Middle Ages**) dengan era modern (500-1400).
 
 ## The Reinassance
 
-Dimulai pada tahun 1400 eropa barat mengalami perubahan besar yang disebut dengan **The Reinassance**. Selama hampir seribu tahun lamanya setelah jatuhnya **Roman Empire** pada tahun 476, agama menjadi pusat anutan seluruh aspek kehidupan.
+The Reinassance dimulai pada tahun 1400 di eropa barat yang mengalami perubahan besar, seringkali disebut dengan abad kebangkitan ilmu pengetahuan. Sebelum itu, setelah jatuhnya **Roman Empire** pada tahun 476, hampir selama seribu tahun agama menjadi pusat anutan seluruh aspek kehidupan.
 
-Runtuhnya **Roman Empire** sebagai pusat kekuatan membuat gereja katolik bisa menjadi institusi yang paling dominan di eropa barat untuk mempelajari lebih dalam subjek politik dan sains.
+Runtuhnya **Roman Empire** sebagai pusat kekuatan membuat gereja katolik bisa menjadi institusi yang paling dominan di eropa barat untuk mempelajari subjek lainnya selain agama seperti politik dan sains. Penjelasan terkait setiap kejadian alam (**Natural Occurences**) secara general bersifat agamis, menurut gereja sebuah kejadian terjadi itu semua karena kehendak Tuhan.
+
+Seorang pejuang bisa menjadi seorang pangeran atau raja dengan syarat harus mendapatkan berkah terlebih dahulu dari gereja. Hal ini membuat struktur sosial dan politik di eropa berevolusi menjadi Feodalism, para pejuang bersenjata yang menjadi aristokrat pertama dapat beraktivitas politik dengan berkah dari gereja.
+
+Sebagian besar petani yang tidak memiliki tanah, mereka bekerja di tanah milik seorang aristokrat.
 
 Revolusi Industri kedua terjadi antara tahun 1850 sampai tahun 1940 yang secara dominan terjadi dibenua amerika dan eropa. Di dominasi oleh pengembangan **Internal Combustion Engine** dan Listrik (**Electricity**).
 
