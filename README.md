@@ -22,7 +22,7 @@ Sejarahnya awal mula revolusi industri ini terjadi di Inggris pada pertengahan a
 
 Perkembangan teknologi merubah cara orang-orang hidup dan bekerja, hingga bagaimana pemerintah mengatur dan mengendalikan. Sebelum revolusi industry, pekerja yang handal menjalankan family business seperti memintal benang (**Spinning Thread**) dan menenun kain (**Weaving Cloth**) di rumah. Kontrak kerja sama dilakukan dengan pedagang (**Merchant**). 
 
-Akhir tahun 1700an industri rumahan (**Cottage Industry**) diganti oleh perusahaan-perusahaan besar. Membangun pabrik-pabrik dengan mesin-mesin yang mendisrupsi skill dan tenaga manusia. Jatuhnya skill dan tenaga manusia oleh mesin menimbulkan marjinalisasi.
+Akhir tahun 1700an industri rumahan (**Cottage Industry**) diganti oleh perusahaan-perusahaan besar. Membangun pabrik-pabrik dengan mesin-mesin yang mendisrupsi skill dan tenaga manusia. Jatuhnya skill dan tenaga manusia oleh mesin menimbulkan marjinalisasi. Munculnya sistem upah dengan bayaran berdasarkan jam, bukan lagi berdasarkan output seperti sebelumnya dimana skill dan tenaga dapat mempengaruhi nilai output.
 
 Para pekerja diundang bekerja untuk mengoperasikan mesin dan upah kerja berdasarkan waktu bekerja, bukan berdasarkan output. 
 
@@ -31,6 +31,8 @@ Di era revolusi industri inggris saat itu kekayaan dan kekuatan politik ada di t
 Sementara di Amerika yang sebelumnya tidak pernah di isi kaum aristokrat, muncul struktur kekuasaan baru tempat munculnya para **Robber Baron**, mereka adalah orang-orang kaya seperti **Andrew Carnegie** penguasa baja, **John D Rockefeller** penguasa minyak, dan **J.P Morgan** penguasa perbankan. Mereka membangun kompetisi yang sangat ketat dan memanipulasi harga agar bisa mendapatkan keuntungan yang sangat besar. 
 
 Budaya Korporasi (**Corporation**) mulai terbangun, diawali para Entrepreneur yang secara individual membeli mesin dan mengundang pekerja untuk bekerja sama dengan mereka. Lalu sekumpulan Entrepreneur bergabung dalam satu organisasi untuk bisa membeli mesin yang lebih mahal dan membangun pabrik. Inilah awal korporasi di era revolusi industri.
+
+Kombinasi Revolusi Pertanian (Agriculture Revolution) dan Revolusi Industri (Industrial Revolution) membuat masyarakat berpindah untuk hidup dikota. Suksesnya membangun produktivitas pertanian membuat kuatnya sektor ketahanan pangan (Food Security). Jaminan ketersediaan makanan dan kemudahan akses pada makanan membuat masyarakat bisa fokus membangun peradaban selanjutnya.
 
 ## Political Changes
 
