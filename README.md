@@ -42,11 +42,21 @@ Berpindahnya masyarakat ke kota dan bangkitnya pabrik pabrik sebagai sumber keka
 
 Perdebatan moral terkait etika pemilik pabrik terhadap pekerja menjadi isu menarik. Seperti pertanyaan apakah pemilik pabrik dapat berlaku semena-mena kepada pegawainya? Perebutan pengaruh dan suara antara pemilik pabrik dan serikat pekerja terus berlanjut. Sehingga demokrasi modern yang kita kenal saat ini memiliki akar kuat berasal dari perubahan sosial hasil dari revolusi industri. 
 
+# Origin of Industrial Revolution
+
+Terminologi **Revolution** mulai popular pada akhir tahun 1800an diperkenalkan oleh seorang **British Sociologist** bernama **Arnold Toynbee**.
+
+## The Reinassance
+
+Dimulai pada tahun 1400 eropa barat mengalami perubahan besar yang disebut dengan **The Reinassance**. Selama hampir seribu tahun lamanya setelah jatuhnya **Roman Empire** pada tahun 476, agama menjadi pusat anutan seluruh aspek kehidupan.
+
+Runtuhnya **Roman Empire** sebagai pusat kekuatan membuat gereja katolik bisa menjadi institusi yang paling dominan di eropa barat untuk mempelajari lebih dalam subjek politik dan sains.
+
 Revolusi Industri kedua terjadi antara tahun 1850 sampai tahun 1940 yang secara dominan terjadi dibenua amerika dan eropa. Di dominasi oleh pengembangan **Internal Combustion Engine** dan Listrik (**Electricity**).
 
 **Industrial Revolution** menjelaskan pristiwa pada periode tahun 1770s sampai pertengahan tahun 1870s, sebuah masa dimana tenaga manusia akhirnya diganti oleh teknologi berbasis listrik dan mekanik. Hasilnya adalah perubahan **manufacturing** dan metode **production**, kultur bekerja dan lahirnya model transportasi dan infrastruktur terbaru untuk masyarakat.
 
-Origin of Industrial Revolution
+
 
 The Revolution begin : Steam Engines, Railroads, Steamboats
 
