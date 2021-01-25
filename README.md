@@ -6,7 +6,7 @@ Written by Gun Gun Febrianza
 
 Kata **Revolution** mengacu pada pristiwa perubahan radikal secara mendadak. Revolusi karena teknologi mengubah sistem ekonomi dan struktur sosial. Kata **Industry** mengacu pada produksi barang dan jasa menggunakan teknologi dan kata **Industrialization** digunakan untuk menjelaskan perkembangan suatu industri dalam skala besar.
 
-Akar dari proses **industrialization** adalah pesatnya perkembangan ilmu pengetahuan ilmiah (**Scientific Knowledge**) dan teknologi. 
+Akar dari proses **industrialization** adalah pesatnya **Scientific Revolution**, yaitu perkembangan ilmu pengetahuan ilmiah (**Scientific Knowledge**) dan teknologi. 
 
 Sejarahnya awal mula revolusi industri ini terjadi di Inggris pada pertengahan abad ke 18, dari tahun 1750 sampai tahun 1850 yang didominasi oleh pengembangan **Steam Engine** dengan bahan bakar batu bara (**coal**) dan kemajuan mesin-mesin untuk industri tekstil. 
 
@@ -38,7 +38,9 @@ Populasi manusia tumbuh dengan drastis di setiap kota yang mengalami industriali
 
 ## Political Changes
 
-Berpindahnya masyarakat ke kota dan bangkitnya pabrik pabrik sebagai sumber kekayaan mereduksi kekuatan dan pengaruh para aristokrat lama, termasuk raja dan ratu yang telah menguasai di abad pertengahan (**Middle Age**). 
+Berpindahnya masyarakat ke kota dan bangkitnya pabrik pabrik sebagai sumber kekayaan mereduksi kekuatan dan pengaruh para aristokrat lama, termasuk raja dan ratu yang telah menguasai di abad pertengahan (**Middle Age**). Awalnya pemilik pabrik memiliki suara besar dalam memberikan pengaruh pada urusan-urusan pemerintahan, namun pada pertengahan tahun 1800 suara dipilih atas nama hak-hak pekerja.
+
+Perdebatan moral terkait etika pemilik pabrik terhadap pekerja menjadi isu menarik. Seperti pertanyaan apakah pemilik pabrik dapat berlaku semena-mena kepada pegawainya? Perebutan pengaruh dan suara antara pemilik pabrik dan serikat pekerja terus berlanjut. Sehingga demokrasi modern yang kita kenal saat ini memiliki akar kuat berasal dari perubahan sosial hasil dari revolusi industri. 
 
 Revolusi Industri kedua terjadi antara tahun 1850 sampai tahun 1940 yang secara dominan terjadi dibenua amerika dan eropa. Di dominasi oleh pengembangan **Internal Combustion Engine** dan Listrik (**Electricity**).
 
