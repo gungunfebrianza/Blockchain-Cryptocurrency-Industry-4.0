@@ -16,7 +16,7 @@ Sejarahnya awal mula revolusi industri ini terjadi di Inggris pada pertengahan a
 
 **Transportation** : Kuda, lembu dan hewan tunggangan darat lainnya diganti dengan rel kereta api dan transportasi laut menggunakan **Steamships**. 
 
-**Communication** :
+**Communication** : Pesan yang sebelumnya di bawa menggunakan manusia diganti menggunakan alat komunikasi instant seperti **Telegraph**.
 
 Revolusi Industri kedua terjadi antara tahun 1850 sampai tahun 1940 yang secara dominan terjadi dibenua amerika dan eropa. Di dominasi oleh pengembangan **Internal Combustion Engine** dan Listrik (**Electricity**).
 
