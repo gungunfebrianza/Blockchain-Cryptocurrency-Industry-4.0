@@ -22,7 +22,11 @@ Sejarahnya awal mula revolusi industri ini terjadi di Inggris pada pertengahan a
 
 Perkembangan teknologi merubah cara orang-orang hidup dan bekerja, hingga bagaimana pemerintah mengatur dan mengendalikan. Sebelum revolusi industry, pekerja yang handal menjalankan family business seperti memintal benang (**Spinning Thread**) dan menenun kain (**Weaving Cloth**) di rumah. Kontrak kerja sama dilakukan dengan pedagang (**Merchant**). 
 
-Akhir tahun 1700an industri rumahan (Cottage Industry) diganti oleh perusahaan-perusahaan besar. Membangun pabrik-pabrik dengan mesin-mesin yang mendisrupsi skill dan tenaga manusia. Jatuhnya skill dan tenaga manusia oleh mesin menimbulkan marjinalisasi.
+Akhir tahun 1700an industri rumahan (**Cottage Industry**) diganti oleh perusahaan-perusahaan besar. Membangun pabrik-pabrik dengan mesin-mesin yang mendisrupsi skill dan tenaga manusia. Jatuhnya skill dan tenaga manusia oleh mesin menimbulkan marjinalisasi.
+
+Para pekerja diundang bekerja untuk mengoperasikan mesin dan upah kerja berdasarkan waktu bekerja, bukan berdasarkan output. 
+
+Di era revolusi industri inggris saat itu kekayaan dan kekuatan politik ada di tangan orang-orang aristokrat yang mengendalikan tanah. Pada akhir tahun 1800 banyak para aristokrat posisinya di gantikan oleh para pemilik bisnis yang sangat kaya. Sementara di Amerika yang sebelumnya tidak pernah di isi kaum aristokrat, muncul struktur kekuasaan baru tempat munculnya para Robber Baron, mereka adalah orang-orang kaya seperti Andrew Carnegie penguasa baja, John D Rockefeller penguasa minyak, dan J.P Morgan penguasa perbankan.
 
 
 
