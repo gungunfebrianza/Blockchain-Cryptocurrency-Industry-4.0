@@ -14,7 +14,7 @@ Sejarahnya awal mula revolusi industri ini terjadi di Inggris pada pertengahan a
 
 **Manufacture** : Proses manufaktur mengalami pergeseran dari karya tangan manusia (**handmade**) menggunakan mesin (**machine-made**) dan **home-made** menjadi **factory-made**.
 
-**Transportation** :
+**Transportation** : Kuda, lembu dan hewan tunggangan darat lainnya diganti dengan rel kereta api dan transportasi laut menggunakan **Steamships**. 
 
 **Communication** :
 
