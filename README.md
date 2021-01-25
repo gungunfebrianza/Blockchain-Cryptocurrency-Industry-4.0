@@ -10,13 +10,13 @@ Akar dari proses **industrialization** adalah pesatnya perkembangan ilmu pengeta
 
 Sejarahnya awal mula revolusi industri ini terjadi di Inggris pada pertengahan abad ke 18, dari tahun 1750 sampai tahun 1850 yang didominasi oleh pengembangan **Steam Engine** dengan bahan bakar batu bara (**coal**) dan kemajuan mesin-mesin untuk industri tekstil. 
 
-Power : Pemanfaatan mechanical power dari mesin uap (Steam Engine) dengan cara membakar batu bara (coal) untuk memanaskan air agar menghasilkan uap untuk tenaga mesin.
+**Power** : Pemanfaatan mechanical power dari mesin uap (**Steam Engine**) dengan cara membakar batu bara (**coal**) untuk memanaskan air agar menghasilkan uap untuk tenaga mesin.
 
-Manufacture :
+**Manufacture** : Proses manufaktur mengalami pergeseran dari karya tangan manusia (**handmade**) menggunakan mesin (**machine-made**) dan **home-made** menjadi **factory-made**.
 
-Transportation :
+**Transportation** :
 
-Communication :
+**Communication** :
 
 Revolusi Industri kedua terjadi antara tahun 1850 sampai tahun 1940 yang secara dominan terjadi dibenua amerika dan eropa. Di dominasi oleh pengembangan **Internal Combustion Engine** dan Listrik (**Electricity**).
 
