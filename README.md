@@ -120,17 +120,18 @@ Teknologi untuk membaca event dan perubahan pada environment secara realtime.
 
 # Glossary
 
-Aristrocrat
+**Aristrocrat**
 
 Seseorang yang mengendalikan tanah dan orang yang tinggal di dalamnya. 
 
-Cottage Industry
+**Cottage Industry**
 
 Sistem ekonomi tempat para ahli kerajinan tangan memproduksi barang dirumah bukan di dalam pabrik.
 
-Democracy
+**Democracy**
 
 Sistem politik yang mengatur pemerintah dan kebijakannya berdasarkan suara terbanyak.
 
-Reinassance
+**Reinassance**
 
+Sebuah periode dalam sejarah eropa yang seringkali disebut masa kebangkitan ilmu pengetahuan matematika, seni, literatur, hukum menggantikan pemikiran dogma-dogma dalam agama. Terjadi sekitar tahun 1400-1700. 
