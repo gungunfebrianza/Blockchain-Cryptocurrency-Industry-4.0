@@ -132,6 +132,10 @@ Sistem ekonomi tempat para ahli kerajinan tangan memproduksi barang dirumah buka
 
 Sistem politik yang mengatur pemerintah dan kebijakannya berdasarkan suara terbanyak.
 
+**Feudalism**
+
+Sebuah sistem sosial dan politik pada periode tahun 400 sampai 1500 dimana para aristokrat mengendalikan tanah.
+
 **Reinassance**
 
 Sebuah periode dalam sejarah eropa yang seringkali disebut masa kebangkitan ilmu pengetahuan matematika, seni, literatur, hukum menggantikan pemikiran dogma-dogma dalam agama. Terjadi sekitar tahun 1400-1700. 
