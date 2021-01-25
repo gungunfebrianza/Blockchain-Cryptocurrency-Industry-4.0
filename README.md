@@ -34,6 +34,8 @@ Budaya Korporasi (**Corporation**) mulai terbangun, diawali para Entrepreneur ya
 
 Kombinasi Revolusi Pertanian (Agriculture Revolution) dan Revolusi Industri (Industrial Revolution) membuat masyarakat berpindah untuk hidup dikota. Suksesnya membangun produktivitas pertanian membuat kuatnya sektor ketahanan pangan (Food Security). Jaminan ketersediaan makanan dan kemudahan akses pada makanan membuat masyarakat bisa fokus membangun peradaban selanjutnya.
 
+Populasi manusia tumbuh dengan drastis di setiap kota yang mengalami industrialisasi. 
+
 ## Political Changes
 
 
