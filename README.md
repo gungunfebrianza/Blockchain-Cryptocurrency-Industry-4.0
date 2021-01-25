@@ -8,7 +8,17 @@ Kata **Revolution** mengacu pada pristiwa perubahan radikal secara mendadak. Rev
 
 Akar dari proses **industrialization** adalah pesatnya perkembangan ilmu pengetahuan ilmiah (**Scientific Knowledge**) dan teknologi.
 
+Sejarahnya awal mula revolusi industri ini terjadi di Inggris pada pertengahan abad ke 18 dan menyebar keseluruh dunia bersamaan dengan perang dunia ke 2, membentuk sebuah dunia baru.  
+
 **Industrial Revolution** menjelaskan pristiwa pada periode tahun 1770s sampai pertengahan tahun 1870s, sebuah masa dimana tenaga manusia akhirnya diganti oleh teknologi berbasis listrik dan mekanik. Hasilnya adalah perubahan **manufacturing** dan metode **production**, kultur bekerja dan lahirnya model transportasi dan infrastruktur terbaru untuk masyarakat.
+
+Origin of Industrial Revolution
+
+The Revolution begin : Steam Engines, Railroads, Steamboats
+
+New Machines & The Factory System
+
+Social & Political Impact 
 
 # Science & Technology
 
