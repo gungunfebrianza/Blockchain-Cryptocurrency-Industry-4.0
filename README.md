@@ -32,13 +32,13 @@ Sementara di Amerika yang sebelumnya tidak pernah di isi kaum aristokrat, muncul
 
 Budaya Korporasi (**Corporation**) mulai terbangun, diawali para Entrepreneur yang secara individual membeli mesin dan mengundang pekerja untuk bekerja sama dengan mereka. Lalu sekumpulan Entrepreneur bergabung dalam satu organisasi untuk bisa membeli mesin yang lebih mahal dan membangun pabrik. Inilah awal korporasi di era revolusi industri.
 
-Kombinasi Revolusi Pertanian (Agriculture Revolution) dan Revolusi Industri (Industrial Revolution) membuat masyarakat berpindah untuk hidup dikota. Suksesnya membangun produktivitas pertanian membuat kuatnya sektor ketahanan pangan (Food Security). Jaminan ketersediaan makanan dan kemudahan akses pada makanan membuat masyarakat bisa fokus membangun peradaban selanjutnya.
+Kombinasi Revolusi Pertanian (**Agriculture Revolution**) dan Revolusi Industri (**Industrial Revolution**) membuat masyarakat berpindah untuk hidup dikota. Suksesnya membangun produktivitas pertanian membuat kuatnya sektor ketahanan pangan (**Food Security**). Jaminan ketersediaan makanan dan kemudahan akses pada makanan membuat masyarakat bisa fokus membangun peradaban selanjutnya.
 
 Populasi manusia tumbuh dengan drastis di setiap kota yang mengalami industrialisasi. 
 
 ## Political Changes
 
-
+Berpindahnya masyarakat ke kota dan bangkitnya pabrik pabrik sebagai sumber kekayaan mereduksi kekuatan dan pengaruh para aristokrat lama, termasuk raja dan ratu yang telah menguasai di abad pertengahan (**Middle Age**). 
 
 Revolusi Industri kedua terjadi antara tahun 1850 sampai tahun 1940 yang secara dominan terjadi dibenua amerika dan eropa. Di dominasi oleh pengembangan **Internal Combustion Engine** dan Listrik (**Electricity**).
 
