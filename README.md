@@ -164,8 +164,6 @@ Kecepatan pada aktivitas ekonomi tumbuh secara eksponensial, skala aktivitas eko
 
 Sebuah laporan yang disusun oleh Boston Consultancy Group (BCG) memprediksi bahwa revolusi industri terbaru akan meningkatkan kecepatan kapasitas production sampai 30% dan 25% lebih efisien, peluang investasi disektor manufaktur mencapai approximately 250 Milyar Euro [1].
 
-
-
 ## History
 
 <img src="assets/industry history.jpg" style="zoom:80%;" />
@@ -180,7 +178,9 @@ Pada Revolusi industri kedua ditandai dengan penggunaan listrik dan produksi mas
 
 ### Third Industrial Revolution
 
-Pada revolusi industri ketiga ditandai dengan penggunakan perangkat elektronik untuk mengurangi pekerja. Penggunaan PLC (Programmer Logic Controller) sebuah komputer digital yang dapat diprogram dan didesain memiliki ketahanan baik dilingkungan yang ekstrim sehingga cocok untuk manufacturing di berbagai industry.
+Pada revolusi industri ketiga ditandai dengan penggunakan perangkat elektronik untuk mengurangi pekerja. Penggunaan **PLC** (**Programmer Logic Controller**) sebuah komputer digital yang dapat diprogram dan didesain memiliki ketahanan baik dilingkungan yang ekstrim sehingga cocok untuk **manufacturing** di berbagai **industry**.
+
+Revolusi ketiga ini sering kali disebut dengan **Digital Revolution** dengan ciri perkembangan **Semiconductor**, **Mainframe Computing**, **Personal Computing** dan **Internet**.
 
 ### Fourth Industrial Revolution
 
