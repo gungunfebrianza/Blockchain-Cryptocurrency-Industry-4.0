@@ -122,19 +122,35 @@ Hanya barang dan jasa yang diproduksi di dalam negeri yang dihitung menjadi bagi
 
 ## When Produced
 
-GDP mengukur value production dalam kurun waktu tertentu. Bisa per **Quarter** atau **Annual** per tahun, **Quaterly** GDP data sangat bagus untuk membaca perubahan ekonomi dalam jangka pendek dan **Annualy** GDP data untuk membaca **trend** jangka panjang yang akan datang.
+GDP mengukur **value production** dalam kurun waktu tertentu. Bisa per **Quarter** atau **Annual** per tahun, **Quaterly** GDP data sangat bagus untuk membaca perubahan ekonomi dalam jangka pendek dan **Annualy** GDP data untuk membaca **trend** jangka panjang yang akan datang.
 
 # Industry 4.0
 
-Industry 4.0 adalah industri yang sudah melakukan digitalisasi pada proses manufakturnya, meminimalisir manusia dan intervensi secara manual. Revolusi Industri ke 4 membawa mesin-mesin untuk manufaktur menjadi lebih cerdas dan bisa saling terhubung. 
+**Industry 4.0** adalah industri yang sudah melakukan digitalisasi pada proses manufakturnya, tujuannya untuk meminimalisir manusia dan intervensi secara manual. Revolusi Industri ke 4 membawa mesin-mesin untuk manufaktur menjadi lebih cerdas dan bisa saling terhubung. 
 
-Dibandingkan ketiga revolusi industri sebelumnya, Revolusi Industry 4.0 dideklarasikan secara eksplisit pada tahun 2011 di Jerman. Faktor pendorong revolusi industry 4.0 adalah internet dan mesin robot yang cerdas, pada industry 4.0 robot yang memiliki otonominya sendiri.
+Dibandingkan ketiga revolusi industri sebelumnya, Revolusi Industri 4.0 dideklarasikan secara eksplisit pada tahun 2011 di Jerman. Faktor pendorong revolusi industry 4.0 adalah internet dan mesin robot yang cerdas, pada industry 4.0 robot yang memiliki otonominya sendiri.
 
 Pada **Smart Factory**, robot adalah hal umum ya dalam **manufacturing** namun pada Industry 4.0  robot tidak memerlukan lagi intervensi manusia untuk membuat keputusan yang sangat presisi. Semua ini dapat diwujudkan karena ada teknologi **Artificial Intelligence** dan **Sensor**. Dari preventive **maintenance** menuju **predictive maintenance**, robot dapat memahami kapan robot harus segera di **maintenance**.
 
+## Smart Factory
+
+### Shrimp Industry
+
+Pada Industri tambak udang salah satu mesin cerdas yang secara general dapat memahami molecule dan element di dalam air secara realtime, selanjutnya secara general mesin cerdas memiliki kemampuan predictive analytic dan menentukan keputusan.
+
+<img src="assets/shrimp-industry.png" style="zoom:100%;" />
+
+
+
+## Economy & Industrial Revolution
+
+<img src="assets/economy.png" style="zoom:90%;" />
+
 ## History
 
-Jika kita lihat lagi kedalam sejarah trigger Revolusi Industri Pertama adalah penemuan mesin bertenaga uap (Steam Engine),   
+<img src="assets/industry history.jpg" style="zoom:80%;" />
+
+Jika kita lihat lagi kedalam sejarah trigger Revolusi Industri Pertama adalah penemuan mesin bertenaga uap (Steam Engine) rentang waktunya dimulai dari pertengahan abad ke 18, ada kejutan peningkatan **production**.
 
 **Blockchain Technology**
 
