@@ -128,11 +128,13 @@ GDP mengukur value production dalam kurun waktu tertentu. Bisa per **Quarter** a
 
 Industry 4.0 adalah industri yang sudah melakukan digitalisasi pada proses manufakturnya, meminimalisir manusia dan intervensi secara manual. Revolusi Industri ke 4 membawa mesin-mesin untuk manufaktur menjadi lebih cerdas dan bisa saling terhubung. 
 
-Ada dua konsep yang membuat **Industry 4.0** menjadi popular diantaranya adalah **Smart Factories** dan **Industrial Internet of Things (IIoT)**. 
+Dibandingkan ketiga revolusi industri sebelumnya, Revolusi Industry 4.0 dideklarasikan secara eksplisit pada tahun 2011 di Jerman. Faktor pendorong revolusi industry 4.0 adalah internet dan mesin robot yang cerdas, pada industry 4.0 robot yang memiliki otonominya sendiri.
 
 Pada **Smart Factory**, robot adalah hal umum ya dalam **manufacturing** namun pada Industry 4.0  robot tidak memerlukan lagi intervensi manusia untuk membuat keputusan yang sangat presisi. Semua ini dapat diwujudkan karena ada teknologi **Artificial Intelligence** dan **Sensor**. Dari preventive **maintenance** menuju **predictive maintenance**, robot dapat memahami kapan robot harus segera di **maintenance**.
 
+## History
 
+Jika kita lihat lagi kedalam sejarah trigger Revolusi Industri Pertama adalah penemuan mesin bertenaga uap (Steam Engine),   
 
 **Blockchain Technology**
 
