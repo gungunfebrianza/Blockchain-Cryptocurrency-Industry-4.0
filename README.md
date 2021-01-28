@@ -128,8 +128,6 @@ GDP mengukur **value production** dalam kurun waktu tertentu. Bisa per **Quarter
 
 **Industry 4.0** adalah industri yang sudah melakukan digitalisasi pada proses manufakturnya, tujuannya untuk meminimalisir manusia dan intervensi secara manual. Revolusi Industri ke 4 membawa mesin-mesin untuk manufaktur menjadi lebih cerdas dan bisa saling terhubung. 
 
-Dibandingkan ketiga revolusi industri sebelumnya, Revolusi Industri 4.0 dideklarasikan secara eksplisit pada tahun 2011 di Jerman. Faktor pendorong revolusi industry 4.0 adalah internet dan mesin robot yang cerdas, pada industry 4.0 robot yang memiliki otonominya sendiri.
-
 Pada **Smart Factory**, robot adalah hal umum ya dalam **manufacturing** namun pada Industry 4.0  robot tidak memerlukan lagi intervensi manusia untuk membuat keputusan yang sangat presisi. Semua ini dapat diwujudkan karena ada teknologi **Artificial Intelligence** dan **Sensor**. Dari preventive **maintenance** menuju **predictive maintenance**, robot dapat memahami kapan robot harus segera di **maintenance**.
 
 ## Smart Factory
@@ -160,7 +158,21 @@ Pada dunia transportasi Nanyang Technology University dan perusahaan swedish VOL
 
 <img src="assets/industry history.jpg" style="zoom:80%;" />
 
-Jika kita lihat lagi kedalam sejarah **trigger** Revolusi Industri Pertama adalah penemuan mesin bertenaga uap (Steam Engine) rentang waktunya dimulai dari pertengahan abad ke 18, ada kejutan peningkatan **production**. Pada Revolusi industri kedua ditandai dengan penggunaan listrik dan produksi masal.
+### First Industrial Revolution
+
+Jika kita lihat lagi kedalam sejarah **trigger** Revolusi Industri Pertama adalah penemuan mesin bertenaga uap (Steam Engine) rentang waktunya dimulai dari pertengahan abad ke 18, ada kejutan peningkatan **production**. 
+
+### Second Industrial Revolution
+
+Pada Revolusi industri kedua ditandai dengan penggunaan listrik dan produksi masal. Production mengalami peningkatan tajam dari sebelumnya. 
+
+### Third Industrial Revolution
+
+Pada revolusi industri ketiga ditandai dengan penggunakan perangkat elektronik untuk mengurangi pekerja.
+
+### Fourth Industrial Revolution
+
+Dibandingkan ketiga revolusi industri sebelumnya, Revolusi Industri 4.0 dideklarasikan secara eksplisit pada tahun 2011 di Jerman. Faktor pendorong revolusi industry 4.0 adalah internet dan mesin robot yang cerdas, pada industry 4.0 robot yang memiliki otonominya sendiri.
 
 **Blockchain Technology**
 
