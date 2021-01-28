@@ -142,9 +142,17 @@ Pada Industri tambak udang salah satu mesin cerdas yang secara general dapat mem
 
 ### Warehouse Industry
 
-Pada Warehouse Industry, Bionic Hive mengeluarkan produk bernama SQUID untuk otomasi pekerjaan digudang. Jika robot ini ingin diterapkan tantangannya adalah upgrade infrastruktur. Box, rack dan infrastruktur yang sama harus digunakan agar SQUID bisa menyesuaikan diri. 
+Pada Warehouse Industry, Bionic Hive mengeluarkan produk bernama SQUID untuk otomasi pekerjaan digudang. Jika robot ini ingin diterapkan tantangannya adalah upgrade infrastruktur. Box, rack dan infrastruktur yang sama harus digunakan agar SQUID bisa menyesuaikan diri. Robot memiliki otonominya sendiri untuk menentukan keputusan.
 
 <img src="/assets\bionichive.jpg" style="zoom:100%;" />
+
+### Transportation
+
+Pada dunia transportasi Nanyang Technology University dan perusahaan swedish VOLVO membangun autonomous bus bertenaga listrik pertama di dunia. Bus dapat mengangkut 80 orang dan mampu melakukan perjalanan sepanjang 25 kilometer dalam kondisi full-charge. Penerapan teknologi fast charging membuat bus ini membutuhkan waktu sekitar 6 menit saja untuk full charge.
+
+<img src="assets/autonomousbus.jpg" style="zoom:100%;" />
+
+
 
 
 
