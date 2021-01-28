@@ -154,7 +154,13 @@ Pada dunia transportasi Nanyang Technology University dan perusahaan swedish VOL
 
 ## Economy & Industrial Revolution
 
+Untuk memahami Revolusi Industri kita harus sedikit mengupas kajian ekonomi. Dalam Ekonomi terdapat aktivitas ekonomi seperti production, sebuah area berbagai industri memproduksi barang dan jasa sesuai identitas mereka. 
+
+Jika kita perhatikan berdasarkan sejarahnya, setiap kali terjadi revolusi industri terdapat perubahan magnitude pada aktivitas ekonomi dan karakteristik ekonomi.
+
 <img src="assets/economy.png" style="zoom:90%;" />
+
+
 
 ## History
 
@@ -170,7 +176,7 @@ Pada Revolusi industri kedua ditandai dengan penggunaan listrik dan produksi mas
 
 ### Third Industrial Revolution
 
-Pada revolusi industri ketiga ditandai dengan penggunakan perangkat elektronik untuk mengurangi pekerja. Penggunaan PLC (Programmer Logic Controller) sebuah komputer digital yang didesain memiliki ketahanan baik dilingkungan yang ekstrim sehingga cocok untuk manufacturing di berbagai industry.
+Pada revolusi industri ketiga ditandai dengan penggunakan perangkat elektronik untuk mengurangi pekerja. Penggunaan PLC (Programmer Logic Controller) sebuah komputer digital yang dapat diprogram dan didesain memiliki ketahanan baik dilingkungan yang ekstrim sehingga cocok untuk manufacturing di berbagai industry.
 
 ### Fourth Industrial Revolution
 
