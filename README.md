@@ -128,6 +128,8 @@ GDP mengukur **value production** dalam kurun waktu tertentu. Bisa per **Quarter
 
 **Industry 4.0** adalah industri yang sudah melakukan digitalisasi pada proses manufakturnya, tujuannya untuk meminimalisir manusia dan intervensi secara manual. Revolusi Industri ke 4 membawa mesin-mesin untuk manufaktur menjadi lebih cerdas dan bisa saling terhubung. 
 
+Industry 4.0 menggunakan mesin dan robot, bedanya dengan mesin dan robot pada industri sebelumnya adalah pada industry 4.0 robot memiliki kecerdasan sendiri, otonomi sendiri dan dapat terhubung dengan mesin-mesin cerdas lainnya dalam kelas yang sama.
+
 Pada **Smart Factory**, robot adalah hal umum ya dalam **manufacturing** namun pada Industry 4.0  robot tidak memerlukan lagi intervensi manusia untuk membuat keputusan yang sangat presisi. Semua ini dapat diwujudkan karena ada teknologi **Artificial Intelligence** dan **Sensor**. Dari preventive **maintenance** menuju **predictive maintenance**, robot dapat memahami kapan robot harus segera di **maintenance**.
 
 ## Smart Factory
