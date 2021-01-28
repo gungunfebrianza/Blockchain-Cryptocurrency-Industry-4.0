@@ -184,7 +184,9 @@ Revolusi ketiga ini sering kali disebut dengan **Digital Revolution** dengan cir
 
 ### Fourth Industrial Revolution
 
-Dibandingkan ketiga revolusi industri sebelumnya, Revolusi Industri 4.0 dideklarasikan secara eksplisit pada tahun 2011 di Jerman. Faktor pendorong revolusi industry 4.0 adalah internet dan mesin robot yang cerdas, pada industry 4.0 robot yang memiliki otonominya sendiri.
+Dibandingkan ketiga revolusi industri sebelumnya, Revolusi Industri 4.0 dideklarasikan secara eksplisit pada tahun 2011 pada acara Hannover Fair di Jerman. Faktor pendorong revolusi industry 4.0 adalah internet dan mesin robot yang cerdas, pada industry 4.0 robot yang memiliki otonominya sendiri.
+
+Dan dalam sekup yang lebih luas Industry 4.0 bukan hanya mesin-mesin robot cerdas dan smart factory saja, terdapat hal lainnya yang menjadi integral part industry 4.0  :
 
 
 
