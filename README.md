@@ -50,11 +50,13 @@ Terminologi **Revolution** mulai popular pada akhir tahun 1800an diperkenalkan o
 
 The Reinassance dimulai pada tahun 1400 di eropa barat yang mengalami perubahan besar, seringkali disebut dengan abad kebangkitan ilmu pengetahuan. Sebelum itu, setelah jatuhnya **Roman Empire** pada tahun 476, hampir selama seribu tahun agama menjadi pusat anutan seluruh aspek kehidupan.
 
-Runtuhnya **Roman Empire** sebagai pusat kekuatan membuat gereja katolik bisa menjadi institusi yang paling dominan di eropa barat untuk mempelajari subjek lainnya selain agama seperti politik dan sains. Penjelasan terkait setiap kejadian alam (**Natural Occurences**) secara general bersifat agamis, menurut gereja sebuah kejadian terjadi itu semua karena kehendak Tuhan.
+Runtuhnya **Roman Empire** sebagai pusat kekuatan membuat gereja katolik bisa menjadi institusi yang paling dominan di eropa barat untuk mempelajari subjek lainnya selain agama seperti politik dan sains, namun critical thinking untuk menandingi agama masih jauh. Penjelasan terkait setiap kejadian alam (**Natural Occurences**) secara general bersifat agamis, menurut gereja sebuah kejadian terjadi itu semua karena kehendak Tuhan.
 
-Seorang pejuang bisa menjadi seorang pangeran atau raja dengan syarat harus mendapatkan berkah terlebih dahulu dari gereja. Hal ini membuat struktur sosial dan politik di eropa berevolusi menjadi Feodalism, para pejuang bersenjata yang menjadi aristokrat pertama dapat beraktivitas politik dengan berkah dari gereja.
+Seorang pejuang bisa menjadi seorang pangeran atau raja dengan syarat harus mendapatkan berkah (**Blessing**) terlebih dahulu dari gereja (**Church**). Hal ini membuat struktur sosial dan politik di eropa berevolusi menjadi **Feodalism**, para pejuang bersenjata yang menjadi aristokrat pertama dapat beraktivitas politik dengan berkah (**Blessing**) dari gereja.
 
-Sebagian besar petani yang tidak memiliki tanah, mereka bekerja di tanah milik seorang aristokrat.
+Sebagian besar petani yang tidak memiliki tanah, mereka bekerja di tanah milik seorang aristokrat. Mereka tidak memiliki properti dan hak hukum, mereka harus tunduk pada aturan untuk berkerja dengan aristokrat sebagai tuan pemilik tanah (landlord) bagi mereka. 
+
+Sampai tahun 1400 praktek pendidikan agama daeri gereja katolik seperti ini selama hampir seribu tahun lamanya tidak banyak dipertanyakan dan dipertentangkan.
 
 Revolusi Industri kedua terjadi antara tahun 1850 sampai tahun 1940 yang secara dominan terjadi dibenua amerika dan eropa. Di dominasi oleh pengembangan **Internal Combustion Engine** dan Listrik (**Electricity**).
 
@@ -114,13 +116,17 @@ Sebagai Contoh Mobil Tesla adalah barang jadi yang sudah selesai (final good), j
 
 GDP tidak menghitung semua nilai yang diproduksi hanya barang dan jasa yang diperdagangkan di pasar (market). GDP Tidak menghitung barang dan jasa yang diciptakan untuk keperluan diri sendiri. 
 
-# Where Produced 
+## Where Produced 
 
 Hanya barang dan jasa yang diproduksi di dalam negeri yang dihitung menjadi bagian dari GDP suatu negara. Sebagai contoh Nike Corporation, perusahaan amerika memproduksi sneaker di vietnam dan market value dari sepatu tersebut adalah bagian dari GDP negara Vietnam.
 
-# When Produced
+## When Produced
 
 GDP mengukur value production dalam kurun waktu tertentu. Bisa per **Quarter** atau **Annual** per tahun, **Quaterly** GDP data sangat bagus untuk membaca perubahan ekonomi dalam jangka pendek dan **Annualy** GDP data untuk membaca **trend** jangka panjang yang akan datang.
+
+# Industry 4.0
+
+Industry 4.0 adalah industri yang sudah melakukan digitalisasi pada proses manufakturnya, meminimalisir manusia dan intervensi secara manual. Ada tiga konsep yang membuat Industry 4.0 menjadi popular diantaranya adalah Smart Manufacturing, Smart Factories dan Industrial Internet of Things (IIoT).
 
 **Blockchain Technology**
 
