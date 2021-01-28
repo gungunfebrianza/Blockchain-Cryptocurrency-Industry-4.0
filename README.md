@@ -188,7 +188,9 @@ Dibandingkan ketiga revolusi industri sebelumnya, Revolusi Industri 4.0 dideklar
 
 Dan dalam sekup yang lebih luas Industry 4.0 bukan hanya mesin-mesin robot cerdas dan smart factory saja, terdapat hal lainnya yang menjadi integral part industry 4.0  :
 
+<img src="assets/eedetail.png" style="zoom:100%;" />
 
+Negara Amerika Serikat merespon gagasan Jerman dengan membangun Advanced Manufacturing Partnership (AMP), China membangun Strategic Plan yang disebut dengan Made In China 2025 yang berfokus untuk melakukan upgrade manufacturing system agar bisa memproduksi kualitas yang lebih baik.
 
 # Notes
 
