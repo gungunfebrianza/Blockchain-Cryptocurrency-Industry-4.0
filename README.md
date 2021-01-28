@@ -170,7 +170,7 @@ Pada Revolusi industri kedua ditandai dengan penggunaan listrik dan produksi mas
 
 ### Third Industrial Revolution
 
-Pada revolusi industri ketiga ditandai dengan penggunakan perangkat elektronik untuk mengurangi pekerja.
+Pada revolusi industri ketiga ditandai dengan penggunakan perangkat elektronik untuk mengurangi pekerja. Penggunaan PLC (Programmer Logic Controller) sebuah komputer digital yang didesain memiliki ketahanan baik dilingkungan yang ekstrim sehingga cocok untuk manufacturing di berbagai industry.
 
 ### Fourth Industrial Revolution
 
