@@ -152,10 +152,6 @@ Pada dunia transportasi Nanyang Technology University dan perusahaan swedish VOL
 
 <img src="assets/autonomousbus.jpg" style="zoom:100%;" />
 
-
-
-
-
 ## Economy & Industrial Revolution
 
 <img src="assets/economy.png" style="zoom:90%;" />
@@ -164,7 +160,7 @@ Pada dunia transportasi Nanyang Technology University dan perusahaan swedish VOL
 
 <img src="assets/industry history.jpg" style="zoom:80%;" />
 
-Jika kita lihat lagi kedalam sejarah trigger Revolusi Industri Pertama adalah penemuan mesin bertenaga uap (Steam Engine) rentang waktunya dimulai dari pertengahan abad ke 18, ada kejutan peningkatan **production**.
+Jika kita lihat lagi kedalam sejarah **trigger** Revolusi Industri Pertama adalah penemuan mesin bertenaga uap (Steam Engine) rentang waktunya dimulai dari pertengahan abad ke 18, ada kejutan peningkatan **production**. Pada Revolusi industri kedua ditandai dengan penggunaan listrik dan produksi masal.
 
 **Blockchain Technology**
 
