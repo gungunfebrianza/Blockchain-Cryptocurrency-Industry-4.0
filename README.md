@@ -140,6 +140,12 @@ Pada Industri tambak udang salah satu mesin cerdas yang secara general dapat mem
 
 <img src="assets/shrimp-industry.png" style="zoom:100%;" />
 
+### Warehouse Industry
+
+Pada Warehouse Industry, Bionic Hive mengeluarkan produk bernama SQUID untuk otomasi pekerjaan digudang. Jika robot ini ingin diterapkan tantangannya adalah upgrade infrastruktur. Box, rack dan infrastruktur yang sama harus digunakan agar SQUID bisa menyesuaikan diri. 
+
+<img src="/assets\bionichive.jpg" style="zoom:100%;" />
+
 
 
 ## Economy & Industrial Revolution
