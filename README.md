@@ -154,11 +154,15 @@ Pada dunia transportasi Nanyang Technology University dan perusahaan swedish VOL
 
 ## Economy & Industrial Revolution
 
-Untuk memahami Revolusi Industri kita harus sedikit mengupas kajian ekonomi. Dalam Ekonomi terdapat aktivitas ekonomi seperti production, sebuah area berbagai industri memproduksi barang dan jasa sesuai identitas mereka. 
+Untuk memahami Revolusi Industri kita harus sedikit mengupas kajian ekonomi. Dalam Ekonomi terdapat aktivitas ekonomi seperti **production**, sebuah area berbagai industri memproduksi barang dan jasa sesuai identitas mereka. 
 
-Jika kita perhatikan berdasarkan sejarahnya, setiap kali terjadi revolusi industri terdapat perubahan magnitude pada aktivitas ekonomi dan karakteristik ekonomi.
+Jika kita perhatikan berdasarkan sejarahnya, setiap kali terjadi revolusi industri terdapat perubahan magnitude pada aktivitas ekonomi dan karakteristik ekonomi. 
+
+Kecepatan pada aktivitas ekonomi tumbuh secara eksponensial, skala aktivitas ekonomi membesar membuat skup **breadth and depth** baru, dan kualitas memberikan sistem impak pada suatu negara, perusahaan, industri dan masyarakatnya.
 
 <img src="assets/economy.png" style="zoom:90%;" />
+
+Sebuah laporan yang disusun oleh Boston Consultancy Group (BCG) memprediksi bahwa revolusi industri terbaru akan meningkatkan kecepatan kapasitas production sampai 30% dan 25% lebih efisien, peluang investasi disektor manufaktur mencapai approximately 250 Milyar Euro [1].
 
 
 
@@ -181,6 +185,12 @@ Pada revolusi industri ketiga ditandai dengan penggunakan perangkat elektronik u
 ### Fourth Industrial Revolution
 
 Dibandingkan ketiga revolusi industri sebelumnya, Revolusi Industri 4.0 dideklarasikan secara eksplisit pada tahun 2011 di Jerman. Faktor pendorong revolusi industry 4.0 adalah internet dan mesin robot yang cerdas, pada industry 4.0 robot yang memiliki otonominya sendiri.
+
+
+
+# Notes
+
+[1] Rüssmann M, Lorenz M, Gerbert P,WaldnerM, Justus J, Engel P, HarnischM(2015) Industry 4.0: the future of productivity and growth in manufacturing industries. Boston Consulting Group Publication
 
 **Blockchain Technology**
 
