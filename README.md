@@ -128,7 +128,9 @@ GDP mengukur value production dalam kurun waktu tertentu. Bisa per **Quarter** a
 
 Industry 4.0 adalah industri yang sudah melakukan digitalisasi pada proses manufakturnya, meminimalisir manusia dan intervensi secara manual. Revolusi Industri ke 4 membawa mesin-mesin untuk manufaktur menjadi lebih cerdas dan bisa saling terhubung. 
 
-Ada dua konsep yang membuat **Industry 4.0** menjadi popular diantaranya adalah **Smart Factories** dan **Industrial Internet of Things (IIoT)**.
+Ada dua konsep yang membuat **Industry 4.0** menjadi popular diantaranya adalah **Smart Factories** dan **Industrial Internet of Things (IIoT)**. 
+
+Pada **Smart Factory**, robot adalah hal umum ya dalam **manufacturing** namun pada Industry 4.0  robot tidak memerlukan lagi intervensi manusia untuk membuat keputusan yang sangat presisi.
 
 
 
