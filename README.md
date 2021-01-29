@@ -358,7 +358,9 @@ Implementasi algoritma konsensus yang paling terkenal saat ini adalah ***Proof o
 
 #### Proof of Work (PoW)
 
+Pada Protokol ***Bitcoin\*** Algoritma ***Proof of Work (PoW)\*** tidak sepenuhnya mencapai ***byzantine fault tolerance\***, pembuatnya ***Satoshi Nakamoto\*** memodifikasi algoritma menjadi lebih canggih dengan cara memanfaatkan konsep ***mining\*** dan ***cryptography\***. 
 
+Hal ini membuat ***Proof of Work\*** (***PoW\***) telah terbukti sebagai salah satu algoritma konsensus yang dapat diandalkan dan aman untuk mengamankan ***blockchain\***. 
 
 # Notes
 
