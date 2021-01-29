@@ -1,4 +1,4 @@
-# Blockchain & Cryptocurrency Di Era Industry 4.0
+Blockchain & Cryptocurrency Di Era Industry 4.0
 
 Written by Gun Gun Febrianza
 
@@ -218,7 +218,7 @@ Data ini harus di distribusikan, untuk memahami akar pemikirannya kita harus kem
 
 ## Blockchain History
 
-Blockhain adalah salah satu substansi dari konsep **Distributed Ledger Technology** (**DLT**), konsep ini sudah ada sejak lama sebelum blockchain dan bitcoin ramai. Konsep ini bermula dari penelitian yang dilakukan oleh Leslie Lamport melalui gagasanya yang terkemuka dalam dunia **Distributed System** yaitu **Byzantine General Problem (BGP)**.
+Blockhain adalah salah satu substansi dari konsep **Distributed Ledger Technology** (**DLT**), konsep ini sudah ada sejak lama sebelum **blockchain** dan **bitcoin** ramai. Konsep ini bermula dari penelitian yang dilakukan oleh Leslie Lamport tahun 1982 melalui gagasanya yang terkemuka dalam dunia **Distributed System** yaitu **Byzantine General Problem (BGP)**.
 
 Bagaimana sistem komputer dapat memecahkan masalah terkait konflik informasi di lingkungan jaringan komputer yang tidak dapat dipercaya (**Adversarial Environment**).  
 
@@ -248,6 +248,12 @@ Stornetta adalah seorang fisikawan yang bekerja di perusahaan Xerox, ia pernah m
 
 <img src="assets/ManipulatedDocument.png" style="zoom:100%;" />
 
+Ia berhasil membuktikan terdapat perbedaan dua tinta dalam sebuah buku catatan yang menandai adanya manipulasi. Permasalahan ini membuatnya terinspirasi jikalau kelak seluruh catatan yang dikonversi menjadi dokumen digital juga harus dapat diamankan. 
+
+Minatnya dalam pengamanan dokumen digital terwujud setelah bertemu dengan Stuart Haber seorang ahli ***cryptography\***. Stornetta meyakinkan Haber bahwa penelitian untuk membuat rekaman catatan digital yang tidak dapat dimanipulasi sangat bernilai.
+
+Pada tahun 1991 Haber dan Sonetta [2], membuat penelitian berjudul **How to Time-Stamp a Digital Document**. Mereka memperkenalkan sebuah notasi sekumpulan data ***block\*** yang saling terhubung satu sama lain menggunakan ***Cryptographic Hash\***. 
+
 ## Blockchain Abstraction
 
 Untuk memahami **Blockchain** kita harus memahami abstraksinya, secara abstraksi kita dapat melihat **blockchain** sebagai : 
@@ -264,7 +270,7 @@ Untuk memahami **Blockchain** kita harus memahami abstraksinya, secara abstraksi
 
 
 
-Konsep ***Distributed Ledger Technology\*** (***DLT\***) telah hadir sebelum ***Bitcoin\*** dan ***Blockchain\*** hadir, konsep itu bermula dari penelitian yang dilakukan oleh Lamport pada tahun 1982 melalui teorinya yang terkemuka yaitu ***The Byzantine General Problem\***. 
+
 
 
 
