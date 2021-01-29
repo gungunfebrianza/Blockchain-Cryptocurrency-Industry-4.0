@@ -208,9 +208,11 @@ Secara pemetaan **blockchain** dalam **industry 4.0** terletak di :
 
 <img src="assets/blockchain-description.png" style="zoom:100%;" />
 
-Jika dilihat pada komponen terkecil ***blockchain\*** adalah sebuah ***data structure\*** yang digunakan untuk menyimpan data dalam bentuk rantai ***block\***. Setiap ***block\*** menyimpan sekumpulan data, pada kasus ini data transaksi. Setiap ***block\*** memiliki identitas unik dan saling terhubung satu sama lain melalui identitas tersebut membentuk suatu rantai. (Chain)
+Jika dilihat pada komponen terkecil ***blockchain\*** adalah sebuah ***data structure\*** yang digunakan untuk menyimpan data dalam bentuk rantai ***block\***. Setiap ***block\*** menyimpan sekumpulan data, pada kasus ini data transaksi. Setiap ***block\*** memiliki identitas unik dan saling terhubung satu sama lain melalui identitas tersebut membentuk suatu rantai (**Chain**).
 
 <img src="assets/blockchain.png" style="zoom:100%;" />
+
+Data ini harus di distribusikan. 
 
 
 
