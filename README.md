@@ -290,6 +290,26 @@ Dari runutan penjelasan sebelumnya kita dapat melihat kompleksitas ***blockchain
 
 Pada ***blockchain\*** sebagai ***data structure\*** kita dapat menggunakannya untuk mencatat transaksi, sebagai ***shared ledger\*** kita dapat mendistribusikannya untuk membangun transparansi dan sebagai ***immutable ledger\*** kita dapat memastikan bahwa ***blockchain\*** harus resisten terhadap manipulasi. 
 
+### Blockchain Application
+
+Jika dilihat menggunakan kaca mata PEST Framework aplikasi blockchain bukan hanya untuk teknologi keuangan saja namun bisa digunakan untuk inovasi lainnya, seperti membangun bursa efek saham yang mampu melakukan T+0 Settlement :
+
+<img src="assets/blockchain-application.png" style="zoom:100%;" />
+
+Next 3-5 years? to T+0 Settlement?
+
+<img src="assets/settlement.PNG" style="zoom:100%;" />
+
+# Cryptocurrency
+
+Cryptocurrency adalah salah satu aplikasi blockchain yang paling sukses dan fenomenal. Aplikasi dari blockchain untuk sektor industri keuangan dan produk cryptocurrency yang paling sukses adalah Bitcoin. Eksistensinya kini menjadi alternative financial channel terbaru.
+
+Di bawah ini adalah gambar dari laporan berjudul **The Future of Financial Services** dari **World Economic Forum (WEF)**. Kita bisa melihat bagaimana tim dari WEF melakukan pemetaan **Cryptocurrency** pada kategori **payments**.
+
+<img src="assets/cryptocurrency.png" style="zoom:100%;" />
+
+
+
 # Notes
 
 [1] Rüssmann M, Lorenz M, Gerbert P,WaldnerM, Justus J, Engel P, HarnischM(2015) Industry 4.0: the future of productivity and growth in manufacturing industries. Boston Consulting Group Publication
