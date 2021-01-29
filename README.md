@@ -308,7 +308,17 @@ Sifat ***immutable\*** pada ***blockchain\*** operasi yang dapat kita lakukan ad
 
 #### Blockchain Integrity 
 
+Pada sistem ***database\*** tersentral sosok antagonis dapat mengubah data secara langsung karena data berada terpusat di satu titik. Pada ***blockchain\*** data tersebar keseluruh node sehingga untuk memanipulasi ***data ledger\*** relatif sulit karena, ***51% node\*** dalam jaringan komputer harus dikuasai. 
+
+Seringkali hal ini menjadi mustahil dilakukan karena total ***node\*** yang berada dalam jaringan komputer jumlahnya sangat banyak dan terus tumbuh. Sehingga ***cost\*** untuk menguasai 51% ***node\*** dalam jaringan komputer ***P2P\*** menjadi tidak ***feasible\***. 
+
 #### Blockchain Performance
+
+Untuk menyimpan data ke dalam ***ledger\*** yang selanjutnya terdistribusi secara aktual ke seluruh ***node\*** memerlukan waktu. Diperlukan metode konsensus dan verifikasi agar data ledger konsisten diseluruh ***node\***.
+
+Pertanyaan selanjutnya bagaimana cara untuk membuat data ledger konsisten secara aktual diseluruh partisipan yang berada dalam jaringan komputer ***peer-to-peer (P2P)\*** ?
+
+Untuk itu kita perlu memahami ***Blockchain As Immutable Ledger\***.
 
 ### Blockchain As Immutable Ledger
 
