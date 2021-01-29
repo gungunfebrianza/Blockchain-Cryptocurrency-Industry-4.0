@@ -282,15 +282,29 @@ Secara visual dapat kita lihat pada gambar di bawah ini :
 
 ### Blockchain As Shared Ledger 
 
+<img src="assets/blockchain3.png" style="zoom:100%;" />
+
 #### Blockchain Architecture 
 
 ***Blockchain\*** sebagai ***shared ladger\*** artinya kita tidak akan menggunakan sistem penyimpanan ***data ledger\*** yang terpusat atau tersentral. Sehingga tidak terdapat otoritas tunggal yang dapat mengendalikan jaringan komputer dan memanipulasi data ***ledger\***.
 
+<img src="assets/centralizeddatabase.png" style="zoom:100%;" />
 
+***Data ledger\*** harus disebarkan kepada semua entitas (***nodes\***) tanpa melalui perantara untuk membangun sistem ***data ledger\*** yang transparan.
 
 #### Blockchain Replication 
 
+***Blockchain\*** sebagai ***shared ledger\*** artinya jaringan komputer ***Peer-to-peer (P2P)\*** digunakan untuk mendistribusikan ***data ledger\*** ke semua ***node\*** di dalam jaringan komputer. 
+
+<img src="assets/decentralized.png" style="zoom:100%;" />
+
+Setiap ***node\*** tidak saling mengenal satu sama lain namun mendapatkan perlakuan dan salinan ***data ledger\*** yang sama. Setiap ***nodes\*** dalam jaringan ***Peer-to-peer (P2P)\*** mendapatkan seluruh salinan penuh ***block chain\*** yang sama, ***valid\*** dan terbaru.
+
 #### Blockchain Operation 
+
+Sifat ***immutable\*** pada ***blockchain\*** operasi yang dapat kita lakukan adalah ***CR\*** (***Create & Read\***). Berbeda dengan sistem ***database\*** tersentral yang dapat memanipulasi secara penuh, seperti melakukan operasi ***CRUD\*** (***Create, Read, Update & Delete\***)
+
+<img src="assets/blockchain4.png" style="zoom:100%;" />
 
 #### Blockchain Integrity 
 
