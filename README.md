@@ -204,11 +204,13 @@ Secara pemetaan **blockchain** dalam **industry 4.0** terletak di :
 
 # Blockchain
 
-***Blockchain\*** adalah sekumpulan konsep untuk membangun sistem penyimpanan data yang terdistribusi secara transparan dan resisten terhadap manipulasi. 
+***Blockchain\*** adalah sekumpulan konsep untuk membangun sistem penyimpanan data yang terdistribusi secara transparan dan resisten terhadap manipulasi. Resisten terhadap manipulasi artinya terdapat **Tamper Evidence**, sedikit saja perubahan pada data manipulasi data dapat dibuktikan.
+
+<img src="assets/blockchain-description.png" style="zoom:100%;" />
 
 Jika dilihat pada komponen terkecil ***blockchain\*** adalah sebuah ***data structure\*** yang digunakan untuk menyimpan data dalam bentuk rantai ***block\***. Setiap ***block\*** menyimpan sekumpulan data, pada kasus ini data transaksi. Setiap ***block\*** memiliki identitas unik dan saling terhubung satu sama lain melalui identitas tersebut membentuk suatu rantai. (Chain)
 
-<img src="assets/blockchain.png" style="zoom:80%;" />
+<img src="assets/blockchain.png" style="zoom:100%;" />
 
 
 
