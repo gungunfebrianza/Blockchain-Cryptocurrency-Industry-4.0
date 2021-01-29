@@ -172,6 +172,8 @@ Minatnya dalam pengamanan dokumen digital terwujud setelah bertemu dengan Stuart
 
 Pada tahun 1991 Haber dan Sonetta [2], membuat penelitian berjudul **How to Time-Stamp a Digital Document**. Mereka memperkenalkan sebuah notasi sekumpulan data ***block\*** yang saling terhubung satu sama lain menggunakan ***Cryptographic Hash\***. 
 
+<img src="assets/stuarthaber.png" style="zoom:100%;" />
+
 ## Blockchain Abstraction
 
 Untuk memahami **Blockchain** kita harus memahami abstraksinya, secara abstraksi kita dapat melihat **blockchain** sebagai : 
