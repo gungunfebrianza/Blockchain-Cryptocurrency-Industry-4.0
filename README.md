@@ -280,7 +280,23 @@ Secara visual dapat kita lihat pada gambar di bawah ini :
 
 <img src="assets/blockchain2.png" style="zoom:100%;" />
 
+### Blockchain As Shared Ledger 
 
+#### Blockchain Architecture 
+
+***Blockchain\*** sebagai ***shared ladger\*** artinya kita tidak akan menggunakan sistem penyimpanan ***data ledger\*** yang terpusat atau tersentral. Sehingga tidak terdapat otoritas tunggal yang dapat mengendalikan jaringan komputer dan memanipulasi data ***ledger\***.
+
+
+
+#### Blockchain Replication 
+
+#### Blockchain Operation 
+
+#### Blockchain Integrity 
+
+#### Blockchain Performance
+
+### Blockchain As Immutable Ledger
 
 
 
