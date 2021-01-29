@@ -322,6 +322,8 @@ Untuk itu kita perlu memahami ***Blockchain As Immutable Ledger\***.
 
 ### Blockchain As Immutable Ledger
 
+<img src="assets/blockchain5.png" style="zoom:100%;" />
+
 Untuk memastikan ***data ledger\*** konsisten secara aktual pada seluruh ***node\*** diperlukan sebuah ***consensus mechanism\*** atau ***consensus algorithm\***. Untuk menentukan ***block\*** transaksi yang ***valid\*** dan status terbaru ***blockchain\*** saat ini diperlukan ***consensus achievement\***. ***Block\*** transaksi yang ***valid\*** dan status terbaru ***blockchain\*** saat ini harus dapat diterima oleh semua ***node\***.
 
 ***Consensus achievement\*** diperlukan karena setiap ***node\*** di dalam jaringan komputer ***peer-to-peer (P2P)\*** masing-masing memiliki data ***blockchain\*** lokal yang harus di ***update\***, untuk menambah data terbaru. Istilah ***public blockchain\*** mengacu kepada seluruh data ***blockchain\*** yang ada pada setiap ***node\***. 
@@ -330,7 +332,25 @@ Jadi bagaimana cara untuk membuat setiap ***node\*** dalam jaringan komputer ***
 
 Dalam matematika dan sains komputer permasalahan Ini adalah problema klasik yang dikenal dengan ***Byzantine General Problem\*** (***BGP\***). Bagaimana membuat setiap ***node\*** dalam jaringan komputer ***peer-to-peer\*** (***P2P\***) memiliki keputusan yang sama, meskipun salah satu ***node\*** mengalami kegagalan fungsi atau bertindak jahat?
 
-<img src="assets/blockchain5.png" style="zoom:100%;" />
+#### Byzantine General Problem (BGP) 
+
+<img src="assets/ByzantineGeneralProblemTraitor.png" style="zoom:100%;" />
+
+Setiap jendral dan pasukannya masing-masing berada dilokasi yang terpisah untuk mengepung kota yang hendak diserang. Setiap jendral harus menentukan langkah apa yang akan diambil menyerang atau mundur.
+
+Keputusan yang serempak dan sama, lebih penting dari menyerang atau mundur tanpa koordinasi yang serempak.
+
+Setiap jendral memiliki permasalahan komunikasi sebab pesan yang dikirim melalui kurir dalam perjalanan dapat diperlambat, dihancurkan atau bahkan hilang. Selain itu meskipun pesan berakhir sampai satu atau lebih dari satu jendral bisa saja bertindak jahat dan mengirimkan pesan palsu untuk membingungkan jendral lainnya sehingga mengakibatkan kegagalan total dalam peperangan.
+
+Jika diterapkan kedalam ***blockchain\*** setiap jendral di representasikan sebagai sebuah ***node\*** dan ***node\*** perlu mencapai konsensus untuk menentukan keputusan yang sama secara serempak. 
+
+Untuk mencapai konsensus 2/3 atau lebih ***node\*** yang jujur harus menguasai jaringan komputer ***peer-to-peer\*** (***P2P\***).
+
+Inilah yang menjadi faktor utama kenapa ***blockchain\*** as ***immutable\*** ***ledger\*** masih memiliki celah dari serangan ***51% Attack\***, diamana ***51% node\*** yang tidak jujur menguasai jaringan ***peer-to-peer\*** (***P2P\***).
+
+#### Byzantine Fault-tolerance (BFT) 
+
+#### Proof of Work (PoW)
 
 
 
