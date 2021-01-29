@@ -156,7 +156,7 @@ Pada dunia transportasi Nanyang Technology University dan perusahaan swedish VOL
 
 Untuk memahami Revolusi Industri kita harus sedikit mengupas kajian ekonomi. Dalam Ekonomi terdapat aktivitas ekonomi seperti **production**, sebuah area berbagai industri memproduksi barang dan jasa sesuai identitas mereka. 
 
-Jika kita perhatikan berdasarkan sejarahnya, setiap kali terjadi revolusi industri terdapat perubahan magnitude pada aktivitas ekonomi dan karakteristik ekonomi. 
+Jika kita perhatikan berdasarkan sejarahnya, setiap kali terjadi revolusi industri terdapat perubahan **magnitude** pada aktivitas ekonomi dan karakteristik ekonomi. 
 
 Kecepatan pada aktivitas ekonomi tumbuh secara eksponensial, skala aktivitas ekonomi membesar membuat skup **breadth and depth** baru, dan kualitas memberikan sistem impak pada suatu negara, perusahaan, industri dan masyarakatnya.
 
@@ -170,27 +170,31 @@ Sebuah laporan yang disusun oleh Boston Consultancy Group (BCG) memprediksi bahw
 
 ### First Industrial Revolution
 
-Jika kita lihat lagi kedalam sejarah **trigger** Revolusi Industri Pertama adalah penemuan mesin bertenaga uap (Steam Engine) rentang waktunya dimulai dari pertengahan abad ke 18, ada kejutan peningkatan **production**. 
+Jika kita lihat lagi kedalam sejarah **trigger** Revolusi Industri Pertama adalah penemuan mesin bertenaga uap (Steam Engine) rentang waktunya dimulai dari pertengahan abad ke 18. Revolusi Industri pertama kali terjadi di Inggris Raya (Great Britain), produksi menggunakan tangan manusia akhirnya diganti oleh mesin.
+
+ada kejutan peningkatan **production**. 
 
 ### Second Industrial Revolution
 
-Pada Revolusi industri kedua ditandai dengan penggunaan listrik dan produksi masal. Production mengalami peningkatan tajam dari sebelumnya. 
+Pada Revolusi industri kedua ditandai dengan penggunaan listrik dan produksi masal. **Production** terus mengalami peningkatan dari sebelumnya. 
 
 ### Third Industrial Revolution
 
 Pada revolusi industri ketiga ditandai dengan penggunakan perangkat elektronik untuk mengurangi pekerja. Penggunaan **PLC** (**Programmer Logic Controller**) sebuah komputer digital yang dapat diprogram dan didesain memiliki ketahanan baik dilingkungan yang ekstrim sehingga cocok untuk **manufacturing** di berbagai **industry**.
 
-Revolusi ketiga ini sering kali disebut dengan **Digital Revolution** dengan ciri perkembangan **Semiconductor**, **Mainframe Computing**, **Personal Computing** dan **Internet**.
+Revolusi ketiga ini sering kali disebut dengan **Digital Revolution** dengan ciri perkembangan **Semiconductor**, **Mainframe Computing**, **Personal Computing** dan **Internet**. 
+
+**Production** mengalami peningkatan tajam dari sebelumnya. 
 
 ### Fourth Industrial Revolution
 
-Dibandingkan ketiga revolusi industri sebelumnya, Revolusi Industri 4.0 dideklarasikan secara eksplisit pada tahun 2011 pada acara Hannover Fair di Jerman. Faktor pendorong revolusi industry 4.0 adalah internet dan mesin robot yang cerdas, pada industry 4.0 robot yang memiliki otonominya sendiri.
+Dibandingkan ketiga revolusi industri sebelumnya, Revolusi Industri 4.0 dideklarasikan secara eksplisit pada tahun 2011 pada acara **Hannover Fair** di Jerman. Faktor pendorong revolusi industry 4.0 adalah **internet** dan mesin robot yang cerdas, pada industry 4.0 robot yang memiliki otonominya sendiri.
 
 Dan dalam sekup yang lebih luas Industry 4.0 bukan hanya mesin-mesin robot cerdas dan smart factory saja, terdapat hal lainnya yang menjadi integral part industry 4.0  :
 
 <img src="assets/eedetail.png" style="zoom:100%;" />
 
-Negara Amerika Serikat merespon gagasan Jerman dengan membangun Advanced Manufacturing Partnership (AMP), China membangun Strategic Plan yang disebut dengan Made In China 2025 yang berfokus untuk melakukan upgrade manufacturing system agar bisa memproduksi kualitas yang lebih baik.
+Negara Amerika Serikat merespon gagasan Jerman dengan membangun Advanced Manufacturing Partnership (AMP), China membangun **Strategic Plan** yang disebut dengan **Made In China 2025** yang berfokus untuk melakukan upgrade manufacturing system agar bisa memproduksi kualitas yang lebih baik.
 
 # Notes
 
