@@ -350,6 +350,12 @@ Inilah yang menjadi faktor utama kenapa ***blockchain\*** as ***immutable\*** **
 
 #### Byzantine Fault-tolerance (BFT) 
 
+***Byzantine Fault Tolerance\*** adalah karakteristik sebuah sistem yang tetap berjalan meskipun terdapat kegagalan yang berasal dari ***Byzantine General Problem\***. Sebuah sistem yang sudah memiliki karakteristik ***Byzantine Fault Tolerance\*** dapat terus berjalan meskipun terdapat ***node\*** yang mengalami kegagalan fungsi atau bertindak jahat.
+
+Ada berbagai algoritma konsensus untuk membangun sistem ***blockchain\*** yang memiliki karakteristik ***byzantine fault tolerance\***. 
+
+Implementasi algoritma konsensus yang paling terkenal saat ini adalah ***Proof of Work\*** (***PoW\***), selain itu juga terdapat algoritma konsensus lainya seperti ***Proof of Stake\*** (***PoS\***). Konsep ***PoW\*** sendiri sudah diciptakan lebih lama sebelum ***blockchain\*** hadir.
+
 #### Proof of Work (PoW)
 
 
