@@ -362,6 +362,14 @@ Pada Protokol ***Bitcoin\*** Algoritma ***Proof of Work (PoW)\*** tidak sepenuhn
 
 Hal ini membuat ***Proof of Work\*** (***PoW\***) telah terbukti sebagai salah satu algoritma konsensus yang dapat diandalkan dan aman untuk mengamankan ***blockchain\***. 
 
+## Blockchain Conclusion
+
+Dari runutan penjelasan sebelumnya kita dapat melihat kompleksitas ***blockchain\*** mulai dari hal yang terkecil sampai ke hal yang terbesar dalam konsep ***blockchain\*** itu sendiri.
+
+<img src="assets/blockchain-complexity.png" style="zoom:100%;" />
+
+Pada ***blockchain\*** sebagai ***data structure\*** kita dapat menggunakannya untuk mencatat transaksi, sebagai ***shared ledger\*** kita dapat mendistribusikannya untuk membangun transparansi dan sebagai ***immutable ledger\*** kita dapat memastikan bahwa ***blockchain\*** harus resisten terhadap manipulasi. 
+
 # Notes
 
 [1] Rüssmann M, Lorenz M, Gerbert P,WaldnerM, Justus J, Engel P, HarnischM(2015) Industry 4.0: the future of productivity and growth in manufacturing industries. Boston Consulting Group Publication
