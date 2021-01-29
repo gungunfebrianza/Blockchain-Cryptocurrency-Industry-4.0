@@ -268,9 +268,17 @@ Untuk memahami **Blockchain** kita harus memahami abstraksinya, secara abstraksi
 
 ### Blockchain As Data Structure
 
+***Data structure\*** adalah cara untuk mengorganisir sekumpulan data agar bisa digunakan secara efisien dan mampu memecahkan masalah dalam pemrograman. Pada ***blockchain\*** data tersusun ke dalam 3 level :
 
+1. Record Level
 
+2. Block Level
 
+3. Block Chain Level
+
+Secara visual dapat kita lihat pada gambar di bawah ini :
+
+<img src="assets/blockchain2.png" style="zoom:100%;" />
 
 
 
