@@ -198,11 +198,21 @@ Dan dalam sekup yang lebih luas **Industry 4.0** bukan hanya mesin-mesin robot c
 
 Negara Amerika Serikat merespon gagasan Jerman dengan membangun Advanced Manufacturing Partnership (AMP), China membangun **Strategic Plan** yang disebut dengan **Made In China 2025** yang berfokus untuk melakukan upgrade manufacturing system agar bisa memproduksi kualitas yang lebih baik.
 
-# Blockchain
-
-Secara pemetaan blockchain dalam industry 4.0 terletak di :
+Secara pemetaan **blockchain** dalam **industry 4.0** terletak di :
 
 <img src="assets/Industry 4.0.png" style="zoom:90%;" />
+
+# Blockchain
+
+***Blockchain\*** adalah sekumpulan konsep untuk membangun sistem penyimpanan data yang terdistribusi secara transparan dan resisten terhadap manipulasi. 
+
+Jika dilihat pada komponen terkecil ***blockchain\*** adalah sebuah ***data structure\*** yang digunakan untuk menyimpan data dalam bentuk rantai ***block\***. Setiap ***block\*** menyimpan sekumpulan data, pada kasus ini data transaksi. Setiap ***block\*** memiliki identitas unik dan saling terhubung satu sama lain melalui identitas tersebut membentuk suatu rantai. (Chain)
+
+<img src="assets/blockchain.png" style="zoom:80%;" />
+
+
+
+
 
 # Notes
 
