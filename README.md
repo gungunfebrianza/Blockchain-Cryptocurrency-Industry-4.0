@@ -208,11 +208,27 @@ Secara pemetaan **blockchain** dalam **industry 4.0** terletak di :
 
 <img src="assets/blockchain-description.png" style="zoom:100%;" />
 
+## Blockchain Abstraction
+
+Untuk memahami **Blockchain** kita harus memahami abstraksinya, secara abstraksi kita dapat melihat **blockchain** sebagai : 
+
+1. **Blockchain As Data Structure**
+2. **Blockchain As Shared Ledger**
+3. **Blockchain As Immutable Ledger**
+
+
+
+<img src="assets/blockchain0.png" style="zoom:100%;" />
+
 Jika dilihat pada komponen terkecil ***blockchain\*** adalah sebuah ***data structure\*** yang digunakan untuk menyimpan data dalam bentuk rantai ***block\***. Setiap ***block\*** menyimpan sekumpulan data, pada kasus ini data transaksi. Setiap ***block\*** memiliki identitas unik dan saling terhubung satu sama lain melalui identitas tersebut membentuk suatu rantai (**Chain**).
 
-<img src="assets/blockchain.png" style="zoom:100%;" />
+<img src="assets/blockchain1.png" style="zoom:100%;" />
 
-Data ini harus di distribusikan. 
+Data ini harus di distribusikan, untuk memahami akar pemikirannya kita harus kembali lagi membuka sejarah membahas **Distributed Database** dan **Distributed Ledger**.
+
+Konsep ***Distributed Ledger Technology\*** (***DLT\***) telah hadir sebelum ***Bitcoin\*** dan ***Blockchain\*** hadir, konsep itu bermula dari penelitian yang dilakukan oleh Lamport pada tahun 1982 melalui teorinya yang terkemuka yaitu ***The Byzantine General Problem\***. 
+
+
 
 
 
