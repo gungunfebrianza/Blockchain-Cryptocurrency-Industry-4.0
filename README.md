@@ -162,7 +162,7 @@ Kecepatan pada aktivitas ekonomi tumbuh secara eksponensial, skala aktivitas eko
 
 <img src="assets/economy.png" style="zoom:90%;" />
 
-Sebuah laporan yang disusun oleh Boston Consultancy Group (BCG) memprediksi bahwa revolusi industri terbaru akan meningkatkan kecepatan kapasitas production sampai 30% dan 25% lebih efisien, peluang investasi disektor manufaktur mencapai approximately 250 Milyar Euro [1].
+Sebuah laporan yang disusun oleh **Boston Consultancy Group (BCG)** memprediksi bahwa revolusi industri terbaru akan meningkatkan kecepatan kapasitas production sampai 30% dan 25% lebih efisien, peluang investasi disektor manufaktur mencapai **approximately** 250 Milyar Euro [1].
 
 ## History
 
@@ -192,13 +192,17 @@ Revolusi ketiga ini sering kali disebut dengan **Digital Revolution** dengan cir
 
 Dibandingkan ketiga revolusi industri sebelumnya, Revolusi Industri 4.0 dideklarasikan secara eksplisit pada tahun 2011 pada acara **Hannover Fair** di Jerman. Faktor pendorong revolusi industry 4.0 adalah **internet** dan mesin robot yang cerdas, pada industry 4.0 robot yang memiliki otonominya sendiri.
 
-Dan dalam sekup yang lebih luas Industry 4.0 bukan hanya mesin-mesin robot cerdas dan smart factory saja, terdapat hal lainnya yang menjadi integral part industry 4.0  :
+Dan dalam sekup yang lebih luas **Industry 4.0** bukan hanya mesin-mesin robot cerdas dan smart factory saja, terdapat hal lainnya yang menjadi integral part industry 4.0  :
 
 <img src="assets/eedetail.png" style="zoom:100%;" />
 
 Negara Amerika Serikat merespon gagasan Jerman dengan membangun Advanced Manufacturing Partnership (AMP), China membangun **Strategic Plan** yang disebut dengan **Made In China 2025** yang berfokus untuk melakukan upgrade manufacturing system agar bisa memproduksi kualitas yang lebih baik.
 
+# Blockchain
 
+Secara pemetaan blockchain dalam industry 4.0 terletak di :
+
+<img src="assets/Industry 4.0.png" style="zoom:90%;" />
 
 # Notes
 
