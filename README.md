@@ -204,9 +204,17 @@ Secara pemetaan **blockchain** dalam **industry 4.0** terletak di :
 
 # Blockchain
 
-***Blockchain\*** adalah sekumpulan konsep untuk membangun sistem penyimpanan data yang terdistribusi secara transparan dan resisten terhadap manipulasi. Resisten terhadap manipulasi artinya terdapat **Tamper Evidence**, sedikit saja perubahan pada data manipulasi data dapat dibuktikan.
+**Blockchain** adalah sekumpulan konsep untuk membangun sistem penyimpanan data yang terdistribusi secara transparan dan resisten terhadap manipulasi. Resisten terhadap manipulasi artinya terdapat **Tamper Evidence**, sedikit saja perubahan pada data manipulasi data dapat dibuktikan.
 
 <img src="assets/blockchain-description.png" style="zoom:100%;" />
+
+**Blockchain** adalah sebuah tempat yang digunakan untuk menyimpan data dalam bentuk rantai **block**. Setiap ***block\*** menyimpan sekumpulan data, pada kasus ini data transaksi. Setiap ***block\*** memiliki identitas unik dan saling terhubung satu sama lain melalui identitas tersebut membentuk suatu rantai (**Chain**).
+
+**Genesis Block** adalah **block** yang pertama kali dibuat, jika terdapat perubahan pada **transaction** di dalam **block** maka identitas **block** tersebut akan berubah sehingga terputus dari rantai identitas. Disanalah tamper **evidence** dapat diketahui.
+
+<img src="assets/blockchain1.png" style="zoom:100%;" />
+
+Data ini harus di distribusikan, untuk memahami akar pemikirannya kita harus kembali lagi membuka sejarah membahas **Distributed Database** dan **Distributed Ledger**.
 
 ## Blockchain Abstraction
 
@@ -220,11 +228,9 @@ Untuk memahami **Blockchain** kita harus memahami abstraksinya, secara abstraksi
 
 <img src="assets/blockchain0.png" style="zoom:100%;" />
 
-Jika dilihat pada komponen terkecil ***blockchain\*** adalah sebuah ***data structure\*** yang digunakan untuk menyimpan data dalam bentuk rantai ***block\***. Setiap ***block\*** menyimpan sekumpulan data, pada kasus ini data transaksi. Setiap ***block\*** memiliki identitas unik dan saling terhubung satu sama lain melalui identitas tersebut membentuk suatu rantai (**Chain**).
+### Blockchain As Data Structure
 
-<img src="assets/blockchain1.png" style="zoom:100%;" />
 
-Data ini harus di distribusikan, untuk memahami akar pemikirannya kita harus kembali lagi membuka sejarah membahas **Distributed Database** dan **Distributed Ledger**.
 
 Konsep ***Distributed Ledger Technology\*** (***DLT\***) telah hadir sebelum ***Bitcoin\*** dan ***Blockchain\*** hadir, konsep itu bermula dari penelitian yang dilakukan oleh Lamport pada tahun 1982 melalui teorinya yang terkemuka yaitu ***The Byzantine General Problem\***. 
 
