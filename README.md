@@ -136,7 +136,7 @@ Data ini harus di distribusikan, untuk memahami akar pemikirannya kita harus kem
 
 ## Blockchain History
 
-Blockhain adalah salah satu substansi dari konsep **Distributed Ledger Technology** (**DLT**), konsep ini sudah ada sejak lama sebelum **blockchain** dan **bitcoin** ramai. Konsep ini bermula dari penelitian yang dilakukan oleh Leslie Lamport tahun 1982 melalui gagasanya yang terkemuka dalam dunia **Distributed System** yaitu **Byzantine General Problem (BGP)**.
+Blockhain adalah salah satu substansi dari konsep **Distributed Ledger Technology** (**DLT**), konsep ini sudah ada sejak lama sebelum **blockchain** dan **bitcoin** ramai. Konsep ini bermula dari penelitian yang dilakukan oleh Leslie Lamport tahun 1982 [2] melalui gagasanya yang terkemuka dalam dunia **Distributed System** yaitu **Byzantine General Problem (BGP)**.
 
 Bagaimana sistem komputer dapat memecahkan masalah terkait konflik informasi di lingkungan jaringan komputer yang tidak dapat dipercaya (**Adversarial Environment**).  
 
@@ -292,36 +292,4 @@ Pada ***blockchain\*** sebagai ***data structure\*** kita dapat menggunakannya u
 
 [1] Rüssmann M, Lorenz M, Gerbert P,WaldnerM, Justus J, Engel P, HarnischM(2015) Industry 4.0: the future of productivity and growth in manufacturing industries. Boston Consulting Group Publication
 
-**Blockchain Technology**
-
-Teknologi yang menyediakan transparansi dan data yang tidak dapat dimanipulasi.
-
-**Precision Farming**
-
-Memanfaatkan teknologi Geographic Information System (GIS), Remote Sensing, Robotic, IoT, Cloud dan Big Data.
-
-**Sensor Technology**
-
-Teknologi untuk membaca event dan perubahan pada environment secara realtime.
-
-# Glossary
-
-**Aristrocrat**
-
-Seseorang yang mengendalikan tanah dan orang yang tinggal di dalamnya. 
-
-**Cottage Industry**
-
-Sistem ekonomi tempat para ahli kerajinan tangan memproduksi barang dirumah bukan di dalam pabrik.
-
-**Democracy**
-
-Sistem politik yang mengatur pemerintah dan kebijakannya berdasarkan suara terbanyak.
-
-**Feudalism**
-
-Sebuah sistem sosial dan politik pada periode tahun 400 sampai 1500 dimana para aristokrat mengendalikan tanah.
-
-**Reinassance**
-
-Sebuah periode dalam sejarah eropa yang seringkali disebut masa kebangkitan ilmu pengetahuan matematika, seni, literatur, hukum menggantikan pemikiran dogma-dogma dalam agama. Terjadi sekitar tahun 1400-1700. 
+[2] Lamport, L., Shostak, R. & Pease, R., "The Byzantine Generals Problem," *ACM Transactions on Programming Languages and Systems.,* vol. 4, p. 387–389, 1982. 
