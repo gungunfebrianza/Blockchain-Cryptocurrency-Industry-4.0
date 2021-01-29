@@ -240,6 +240,14 @@ Namun setiap ***nodes\*** dapat bekerja sama untuk memanajemen ***consensus\*** 
 
 <img src="assets/DistributedLedger.png" style="zoom:100%;" />
 
+### Early Blockchain Research
+
+Penggagas pertama untuk menghubungkan sekumpulan ***block\*** menggunakan ***cryptographic hash\*** adalah Stuart Haber dan W. Scott Stornetta. Penelitian mereka telah hadir 17 tahun sebelum konsep ***blockchain\*** dalam paper bitcoin menjadi mahsyur.
+
+Stornetta adalah seorang fisikawan yang bekerja di perusahaan Xerox, ia pernah menjadi saksi dari skandal atas kasus manipulasi pada publikasi ternama yang dilakukan oleh seorang ahli biologi. 
+
+<img src="assets/ManipulatedDocument.png" style="zoom:100%;" />
+
 ## Blockchain Abstraction
 
 Untuk memahami **Blockchain** kita harus memahami abstraksinya, secara abstraksi kita dapat melihat **blockchain** sebagai : 
