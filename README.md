@@ -1,4 +1,4 @@
-Blockchain & Cryptocurrency Di Era Industry 4.0
+# Blockchain & Cryptocurrency Di Era Industry 4.0
 
 Written by Gun Gun Febrianza
 
@@ -41,88 +41,6 @@ Populasi manusia tumbuh dengan drastis di setiap kota yang mengalami industriali
 Berpindahnya masyarakat ke kota dan bangkitnya pabrik pabrik sebagai sumber kekayaan mereduksi kekuatan dan pengaruh para aristokrat lama, termasuk raja dan ratu yang telah menguasai di abad pertengahan (**Middle Age**). Awalnya pemilik pabrik memiliki suara besar dalam memberikan pengaruh pada urusan-urusan pemerintahan, namun pada pertengahan tahun 1800 suara dipilih atas nama hak-hak pekerja.
 
 Perdebatan moral terkait etika pemilik pabrik terhadap pekerja menjadi isu menarik. Seperti pertanyaan apakah pemilik pabrik dapat berlaku semena-mena kepada pegawainya? Perebutan pengaruh dan suara antara pemilik pabrik dan serikat pekerja terus berlanjut. Sehingga demokrasi modern yang kita kenal saat ini memiliki akar kuat berasal dari perubahan sosial hasil dari revolusi industri. 
-
-# Origin of Industrial Revolution
-
-Terminologi **Revolution** mulai popular pada akhir tahun 1800an diperkenalkan oleh seorang **British Sociologist** bernama **Arnold Toynbee**. Revolusi Industri terjadi secara bertahap ratusan tahun di eropa ditandai dengan tergantinya **Medieval Period** atau abad pertengahan (**Middle Ages**) dengan era modern (500-1400).
-
-## The Reinassance
-
-The Reinassance dimulai pada tahun 1400 di eropa barat yang mengalami perubahan besar, seringkali disebut dengan abad kebangkitan ilmu pengetahuan. Sebelum itu, setelah jatuhnya **Roman Empire** pada tahun 476, hampir selama seribu tahun agama menjadi pusat anutan seluruh aspek kehidupan.
-
-Runtuhnya **Roman Empire** sebagai pusat kekuatan membuat gereja katolik bisa menjadi institusi yang paling dominan di eropa barat untuk mempelajari subjek lainnya selain agama seperti politik dan sains, namun critical thinking untuk menandingi agama masih jauh. Penjelasan terkait setiap kejadian alam (**Natural Occurences**) secara general bersifat agamis, menurut gereja sebuah kejadian terjadi itu semua karena kehendak Tuhan.
-
-Seorang pejuang bisa menjadi seorang pangeran atau raja dengan syarat harus mendapatkan berkah (**Blessing**) terlebih dahulu dari gereja (**Church**). Hal ini membuat struktur sosial dan politik di eropa berevolusi menjadi **Feodalism**, para pejuang bersenjata yang menjadi aristokrat pertama dapat beraktivitas politik dengan berkah (**Blessing**) dari gereja.
-
-Sebagian besar petani yang tidak memiliki tanah, mereka bekerja di tanah milik seorang aristokrat. Mereka tidak memiliki properti dan hak hukum, mereka harus tunduk pada aturan untuk berkerja dengan aristokrat sebagai tuan pemilik tanah (landlord) bagi mereka. 
-
-Sampai tahun 1400 praktek pendidikan agama daeri gereja katolik seperti ini selama hampir seribu tahun lamanya tidak banyak dipertanyakan dan dipertentangkan.
-
-Revolusi Industri kedua terjadi antara tahun 1850 sampai tahun 1940 yang secara dominan terjadi dibenua amerika dan eropa. Di dominasi oleh pengembangan **Internal Combustion Engine** dan Listrik (**Electricity**).
-
-**Industrial Revolution** menjelaskan pristiwa pada periode tahun 1770s sampai pertengahan tahun 1870s, sebuah masa dimana tenaga manusia akhirnya diganti oleh teknologi berbasis listrik dan mekanik. Hasilnya adalah perubahan **manufacturing** dan metode **production**, kultur bekerja dan lahirnya model transportasi dan infrastruktur terbaru untuk masyarakat.
-
-
-
-The Revolution begin : Steam Engines, Railroads, Steamboats
-
-New Machines & The Factory System
-
-Social & Political Impact 
-
-# Science & Technology
-
-Terminologi **Science** dan **Scientist** pertama kali dipopulerkan oleh **William Whewel** diantara tahun 1830 sampai tahun 1840an. Terminologi **Technology** diklaim berawal dari buku karya tulis **Jacob Bigelow's** yang berjudul **Elements of Technology** (1829). Sebelum abad ke 19 terminologi dari **natural philosophy** disebut dengan **science** dan terminologi **mechanical**, **practical** dan **art** dianggap sebagai **technology**.
-
-Terminologi **Engineering** dan **Engineer** berasal dari akar pemikiran yang sangat lama kembali ke masa **Reinassance**, saat itu nama latin dari **engineer** adalah **ingenium**. Saat itu **Ingenium** adalah sebuah simbol kercerdasan dan orang tersebut memiliki kegiatan dengan peralatan perang.
-
-Penggunaan yang lebih luas terminologi **engineer** mengacu kepada seorang **designer** yang memiliki kemampuan untuk membuat sebuah peralatan, baik peralatan militer ataupun sipil. Hal ini pernah dilakukan oleh **John Smeaton** pada abad ke 18 yang menegaskan dirinya adalah seorang **Civil Engineer**.
-
-Semenjak zaman Yunani Kuno sampai abad ke 18 terdapat perbedaan sosial antara **Science** dan **Technology**. Science dilihat sebagai cabang dari ilmu **Philosophy** dan terasosiasi dengan orang kelas atas dan elit. Saat Universitas-universitas mulai dibuka di abad pertengahan edukasi tentang philosophy muncul di universitas dan sekolah medis. Saat itu segala tentang Teknologi dan **Mechanical Art** diasosiasikan dengan orang kelas pekerja, terkadang budak. 
-
-**Scientific Knowledge** dinyatakan lulus melalui tradisi menulis **textbook** sementara **Technical Knowledge** dinyatakan lulus melalui sistem kerja magang yang terjadi kontak langsung antara guru dan pekerja magang.
-
-
-
-# Gross Domestic Product (GDP)
-
-Bagaimana nasib ekonomi indonesia? Apakah akan mengalami pertumbuhan ekonomi atau penurunan ekonomi menuju resesi? 
-
-Para pengusaha dan pembisnis yang hendak menentukan keputusan (decision) menginginkan jawaban agar rencana production mereka sesuai dengan permintaan (**demand**). 
-
-Pemerintah menginginkan jawaban karena jumlah pendapatan pajak tergantung dari seberapa banyak masyarakatnya mendapatkan (**earn**) dan menghabiskan (**spend**) uang, yang kadarnya tergantung kondisi ekonomi. 
-
-Untuk memeriksa kondisi ekonomi kita kita harus mengukur **Gross Domestic Product** (GDP), nilai akhir barang (**goods**) dan jasa (**service**) seluruh market di suatu negara dalam kurun waktu tertentu. 
-
-1. Value Produced
-2. What Produced
-3. Where Produced
-4. When Produced
-
-## Value Produced
-
-Untuk mengukur total production, sebagai contoh kita dapat menghitung total produksi apel dan jeruk.  Jika saat ini petani hanya mampu memproduksi 10 apel seharga 100 rupiah dan 20 jeruk seharga 200 rupiah, maka total market value dari apel adalah 1000 rupiah dan jeruk 2000 rupiah. Jadi Value yang diproduksi dua pasar tersebut adalah 3000 rupiah.
-
-## What Produced
-
-Ada dua barang (good) dan jasa (service) :
-
-1. Final Good & Service
-2. Intermediate Good & Service
-
-Final Good & Service adalah barang dan jasa yang menjadi produk akhir, bukan barang dan jasa yang menjadi komponen untuk produk barang dan jasa lainnya. **Intermediate Good & Service** adalah barang dan jasa yang menjadi komponen sebuah Final Good & Service.
-
-Sebagai Contoh Mobil Tesla adalah barang jadi yang sudah selesai (final good), jika roda ban tesla ternyata menggunakan Ban Cianjur dengan merk "Ban Aspal" maka Ban Aspal adalah Intermediate Good. Namun Jika anda menggantinya menggunakan Ban Bridgestone, maka Ban Bridgestone adalah Final Good.
-
-GDP tidak menghitung semua nilai yang diproduksi hanya barang dan jasa yang diperdagangkan di pasar (market). GDP Tidak menghitung barang dan jasa yang diciptakan untuk keperluan diri sendiri. 
-
-## Where Produced 
-
-Hanya barang dan jasa yang diproduksi di dalam negeri yang dihitung menjadi bagian dari GDP suatu negara. Sebagai contoh Nike Corporation, perusahaan amerika memproduksi sneaker di vietnam dan market value dari sepatu tersebut adalah bagian dari GDP negara Vietnam.
-
-## When Produced
-
-GDP mengukur **value production** dalam kurun waktu tertentu. Bisa per **Quarter** atau **Annual** per tahun, **Quaterly** GDP data sangat bagus untuk membaca perubahan ekonomi dalam jangka pendek dan **Annualy** GDP data untuk membaca **trend** jangka panjang yang akan datang.
 
 # Industry 4.0
 
