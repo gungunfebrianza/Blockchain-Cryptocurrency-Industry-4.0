@@ -218,11 +218,23 @@ Data ini harus di distribusikan, untuk memahami akar pemikirannya kita harus kem
 
 ## Blockchain History
 
-Blockhain adalah salah satu substansi dari konsep **Distributed Ledger Technology** (**DLT**), konsep ini sudah ada sejak lama sebelum blockchain dan bitcoin ramai. Konsep ini bermula dari penelitian yang dilakukan oleh Leslie Lamport melalui gagasanya yang terkemuka dalam dunia **Distributed System** yaitu **Byzentine General Problem (BGP)**.
+Blockhain adalah salah satu substansi dari konsep **Distributed Ledger Technology** (**DLT**), konsep ini sudah ada sejak lama sebelum blockchain dan bitcoin ramai. Konsep ini bermula dari penelitian yang dilakukan oleh Leslie Lamport melalui gagasanya yang terkemuka dalam dunia **Distributed System** yaitu **Byzantine General Problem (BGP)**.
 
 Bagaimana sistem komputer dapat memecahkan masalah terkait konflik informasi di lingkungan jaringan komputer yang tidak dapat dipercaya (**Adversarial Environment**).  
 
 <img src="assets/ByzantineGeneralProblem.png" style="zoom:100%;" />
+
+### Distributed Database 
+
+Pada ***distributed database\*** terdapat sekumpulan ***nodes\*** yang saling mempercayai satu sama lain. Setiap ***nodes\*** dikendalikan oleh sebuah entitas tunggal bisa perorangan atau organisasi, entitas tersebut memiliki kontrol penuh atas jaringan komputer dan ***sharing\*** informasi dengan user.
+
+Sebagai contoh, sekumpulan ***nodes\*** secara langsung dapat melakukan ***replication\*** terkait data terbaru yang diterima. ***Replication\*** adalah proses menyalin sebuah ***database\*** yang diberikan untuk setiap ***nodes\*** agar data konsisten redundan.
+
+<img src="assets/DistributedDatabase.png" style="zoom:100%;" />
+
+### Distributed Ledger
+
+<img src="assets/DistributedLedger.png" style="zoom:100%;" />
 
 ## Blockchain Abstraction
 
