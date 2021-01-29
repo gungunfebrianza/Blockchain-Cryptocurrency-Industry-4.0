@@ -216,6 +216,12 @@ Secara pemetaan **blockchain** dalam **industry 4.0** terletak di :
 
 Data ini harus di distribusikan, untuk memahami akar pemikirannya kita harus kembali lagi membuka sejarah membahas **Distributed Database** dan **Distributed Ledger**.
 
+## Blockchain History
+
+Blockhain adalah salah satu substansi dari konsep **Distributed Ledger Technology** (**DLT**), konsep ini sudah ada sejak lama sebelum blockchain dan bitcoin ramai. 
+
+<img src="assets/ByzantineGeneralProblem.png" style="zoom:100%;" />
+
 ## Blockchain Abstraction
 
 Untuk memahami **Blockchain** kita harus memahami abstraksinya, secara abstraksi kita dapat melihat **blockchain** sebagai : 
