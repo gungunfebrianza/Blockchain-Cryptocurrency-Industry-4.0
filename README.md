@@ -312,9 +312,11 @@ Di bawah ini adalah gambar dari laporan berjudul **The Future of Financial Servi
 
 ***Cryptography\*** adalah ilmu untuk membuat pesan rahasia. *Cryptography* adalah salah satu cabang ilmu *cryptology* dalam sains komputer. ***Cryptology\*** adalah study ilmiah untuk melindungi informasi dan membongkar informasi rahasia. Di dalam *cryptology* terdapat cabang ilmu **Cryptoanalysis**, sebuah ilmu atau analisis untuk membongkar pesan rahasia. 
 
+<img src="assets/cryptology.png" style="zoom:100%;" />
+
 ***Public Key Cryptography\*** atau sering disebut ***Assymetric Cryptography\*** pertama kali dipublikasikan oleh **Whitfield Diffie**, **Martin Hellman** dan **Ralph Merkle** pada tahun 1976.
 
-Formula matematika yang rumit digunakan agar kita bisa melakukan enkripsi (*encrypt*) dan dekripsi (*decrypt*) pada suatu data dengan menggunakan kunci pasangan yang sama.
+Modern Cryptography sudah menggunakan formula matematika yang rumit untuk melakukan enkripsi (*encrypt*) dan dekripsi (*decrypt*) pada suatu data dengan menggunakan kunci pasangan yang sama.
 
 *Program* yang menggunakan *Assymetric Cryptography* untuk memproduksi *Public Key & Private Key* disebut dengan ***Key Generation Program\***.
 
