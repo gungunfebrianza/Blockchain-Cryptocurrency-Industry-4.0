@@ -322,7 +322,15 @@ Untuk itu kita perlu memahami ***Blockchain As Immutable Ledger\***.
 
 ### Blockchain As Immutable Ledger
 
+Untuk memastikan ***data ledger\*** konsisten secara aktual pada seluruh ***node\*** diperlukan sebuah ***consensus mechanism\*** atau ***consensus algorithm\***. Untuk menentukan ***block\*** transaksi yang ***valid\*** dan status terbaru ***blockchain\*** saat ini diperlukan ***consensus achievement\***. ***Block\*** transaksi yang ***valid\*** dan status terbaru ***blockchain\*** saat ini harus dapat diterima oleh semua ***node\***.
 
+***Consensus achievement\*** diperlukan karena setiap ***node\*** di dalam jaringan komputer ***peer-to-peer (P2P)\*** masing-masing memiliki data ***blockchain\*** lokal yang harus di ***update\***, untuk menambah data terbaru. Istilah ***public blockchain\*** mengacu kepada seluruh data ***blockchain\*** yang ada pada setiap ***node\***. 
+
+Jadi bagaimana cara untuk membuat setiap ***node\*** dalam jaringan komputer ***peer-to-peer (P2P)\*** memiliki keputusan yang sama, baik itu keputusan dalam menerima ***block\*** transaksi terbaru atau menolak ***block\*** transaksi terbaru?
+
+Dalam matematika dan sains komputer permasalahan Ini adalah problema klasik yang dikenal dengan ***Byzantine General Problem\*** (***BGP\***). Bagaimana membuat setiap ***node\*** dalam jaringan komputer ***peer-to-peer\*** (***P2P\***) memiliki keputusan yang sama, meskipun salah satu ***node\*** mengalami kegagalan fungsi atau bertindak jahat?
+
+<img src="assets/blockchain5.png" style="zoom:100%;" />
 
 
 
