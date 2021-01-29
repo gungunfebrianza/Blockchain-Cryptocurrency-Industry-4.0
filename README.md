@@ -234,6 +234,10 @@ Sebagai contoh, sekumpulan ***nodes\*** secara langsung dapat melakukan ***repli
 
 ### Distributed Ledger
 
+Perbedaannya dengan ***Distributed Database\***, pada ***Distributed Ledger\*** sekumpulan ***nodes\*** berada dalam lingkungan ***adversarial environment\*** sebuah lingkungan yang tidak dapat dipercaya mempercayai satu sama lain. 
+
+Namun setiap ***nodes\*** dapat bekerja sama untuk memanajemen ***consensus\*** terkait eksistensi, status dan perubahan dari sekumpulan fakta yang yang dibagikan (***shared fact\***).
+
 <img src="assets/DistributedLedger.png" style="zoom:100%;" />
 
 ## Blockchain Abstraction
