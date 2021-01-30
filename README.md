@@ -338,6 +338,12 @@ Salah satu permasalahan klasik dalam dunia ***cryptography\*** adalah pengamanan
 
 <img src="assets/digitalsignature.png" style="zoom:100%;" />
 
+Sebab saat dokumen dikirim melalui ***channel\*** yang tidak aman (***insecure channel\***), dalam perjalanan dokumen dapat dimodifikasi oleh entitas antagonis. Sehingga penerima mendapatkan dokumen digital yang tidak asli alias telah dimodifikasi.
+
+<img src="assets/mitmattack.png" style="zoom:100%;" />
+
+Sebagai contoh, Maudy memiliki ***document\*** yang akan dikirim untuk Gun. Untuk memastikan Gun mendapatkan dokumen digital yang asli, Maudy bisa menggunakan tanda tangan digital (***Digital Signature\***).
+
 # Notes
 
 [1] Rüssmann M, Lorenz M, Gerbert P,WaldnerM, Justus J, Engel P, HarnischM(2015) Industry 4.0: the future of productivity and growth in manufacturing industries. Boston Consulting Group Publication
