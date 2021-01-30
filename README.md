@@ -1,5 +1,7 @@
 # Blockchain & Cryptocurrency Di Era Industry 4.0
 
+Cover Buku ini sedang di desain.
+
 Written by Gun Gun Febrianza
 
 # Industrial Revolution
@@ -429,6 +431,16 @@ Banyak sekali fungsi internal dalam Protokol Bitcoin sangat tergantung pada **Cr
 Secara komputasi *hash function* tidak boleh menghasilkan *output hash value* yang sama dari dua *input* yang berbeda.
 
 # Money
+
+<img src="assets/money.PNG" style="zoom:100%;" />
+
+Apa itu Uang ? 
+
+Untuk masyarakat yang ada di generasi saat ini pasti membayangkan uang koin & uang kertas yang ada di dalam dompet kita atau uang digital yang ada di dalam bank atau akun Gopay yang kita miliki. 
+
+Semakin maju peradaban manusia, konsep tentang uang terus berkembang menjadi semakin kompleks, perhatikan pada gambar ini bagaimana uang terus berevolusi :
+
+<img src="assets/money2.PNG" style="zoom:100%;" />
 
 
 
