@@ -575,9 +575,39 @@ Pemerintah dan Bank Central Bertanggung jawab untuk mengatur kebijakan moneter, 
 
 <img src="assets/money8.PNG" style="zoom:100%;" />
 
-### A View
+### Critical Thinking
 
 <img src="assets/gungunfebrianza.png" style="zoom:100%;" />
+
+### Private Virtual Currency
+
+<img src="assets/money9.png" style="zoom:100%;" />
+
+## Future Money
+
+<img src="assets/futuremoney.png" style="zoom:100%;" />
+
+<img src="assets/futuremoney2.png" style="zoom:100%;" />
+
+<img src="assets/futuremoney3.png" style="zoom:100%;" />
+
+## Cashless Challenge
+
+<img src="assets/cashless.png" style="zoom:100%;" />
+
+Driver for cashless
+
+1. Government
+   1. Control Money Supply & Monetary Policy
+   2. Monitoring Tax
+   3. Reduce Corruption
+   4. Combat Terorrism Financing
+2. Global Payment Technology Company
+   1. Visa 
+   2. Mastercard
+3. Fintech Startup
+   1. Gopay
+   2. OVO
 
 
 
