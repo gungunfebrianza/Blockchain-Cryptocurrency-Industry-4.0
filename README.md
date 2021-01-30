@@ -358,6 +358,18 @@ Proses untuk menandatangani sebuah dokumen membutuhkan ***private key\***, selan
 
 Maudy menandatangani dokumen menggunakan ***private key\***, kemudian mengirimkan ***signed document\*** dan salinan ***public key\*** kepada Gun.
 
+<img src="assets/digitalsignature4.png" style="zoom:100%;" />
+
+Pada gambar di bawah ini Gun menggunakan ***Public Key\*** milik maudy untuk memastikan bahwa dokumen yang ia terima adalah asli (***authentic\***). 
+
+<img src="assets/digitalsignature5.png" style="zoom:100%;" />
+
+#### Message Tampering
+
+Jika verifikasi dokumen hasilnya **Not Authentic** maka dokumen telah dimodifikasi sehingga **authentication** gagal. Gun Gun Febrianza dapat mengetahui bahwa dokumen yang dia dapatkan adalah palsu. Sebab perubahan satu karakter saja dalam dokumen akan terdeteksi.
+
+#### 
+
 # Notes
 
 [1] Rüssmann M, Lorenz M, Gerbert P,WaldnerM, Justus J, Engel P, HarnischM(2015) Industry 4.0: the future of productivity and growth in manufacturing industries. Boston Consulting Group Publication
