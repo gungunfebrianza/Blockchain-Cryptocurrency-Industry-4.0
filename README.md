@@ -376,6 +376,28 @@ Sebagai contoh Maudy Ayunda dan Gun Gun Febrianza dapat menggunakan pesan yang t
 
 Maudy Ayunda perlu meminta ***public key\*** milik Gun Gun Febrianza terlebih dahulu. 
 
+<img src="assets/digitalsignature6.png" style="zoom:100%;" />
+
+Selanjutnya maudy membuat draft pesan bahwa Gun Gun Febrianza adalah pemilik baru dari sebuah aset digital sebesar 200 ***Digital Dolar\*** dan menandatanganinya menggunakan ***private key\*** miliknya.
+
+<img src="assets/digitalsignature7.png" style="zoom:100%;" />
+
+Jika dikemudian hari Gun Gun Febrianza menggunakan uang yang di dapat untuk diberikan kepada Nikolaj Vestorp sebesar 100 ***Digital Dollar\***. Maka Gun harus meminta ***public key\*** milik nikolaj terlebih dahulu.
+
+<img src="assets/digitalsignature8.png" style="zoom:100%;" />
+
+Gun membuat ***draft\*** pesan bahwa Nikolaj Vestorp adalah pemilik baru dari sebuah aset digital sebesar 100 ***Digital Dolar\*** dan menandatanganinya menggunakan ***private key\*** miliknya.
+
+### Elliptic Curve Cryptography
+
+Untuk memproduksi sepasang kunci ***public\*** & ***private key\***, Protokol ***Bitcoin\*** menggunakan ***Elliptic Curve Digital Signature Algorithms\*** (***ECDSA\***). 
+
+Karakteristik yang dimiliki dalam ***ECDSA\*** sangat cocok untuk transaksi dalam ***Bitcoin\***, sebab beberapa algoritma hanya dapat memproduksi ***public & private key\*** sekaligus dalam satu waktu. 
+
+Pada algoritma ***ECDSA\***, ***public key\*** hanya dapat diproduksi dari ***private key\*** kapanpun. 
+
+
+
 # Notes
 
 [1] Rüssmann M, Lorenz M, Gerbert P,WaldnerM, Justus J, Engel P, HarnischM(2015) Industry 4.0: the future of productivity and growth in manufacturing industries. Boston Consulting Group Publication
