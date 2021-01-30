@@ -396,10 +396,15 @@ Karakteristik yang dimiliki dalam ***ECDSA\*** sangat cocok untuk transaksi dala
 
 Pada algoritma ***ECDSA\***, ***public key\*** hanya dapat diproduksi dari ***private key\*** kapanpun. 
 
+### Cryptographic Hashing
 
+<img src="assets/hashing.png" style="zoom:100%;" />
+
+***Hash Function\*** adalah sebuah algoritma yang dapat mengubah *input* dengan *arbitrary length* tertentu ke dalam *output* yang memiliki ukuran *fixed* (misal 128 [*bit*](#_Bit)). Sebagai contoh pada hash algorithm SHA256 kita dapat memproduksi 40 karakter unik untuk setiap *arbitrary input length*.
 
 # Notes
 
 [1] Rüssmann M, Lorenz M, Gerbert P,WaldnerM, Justus J, Engel P, HarnischM(2015) Industry 4.0: the future of productivity and growth in manufacturing industries. Boston Consulting Group Publication
 
 [2] Lamport, L., Shostak, R. & Pease, R., "The Byzantine Generals Problem," *ACM Transactions on Programming Languages and Systems.,* vol. 4, p. 387–389, 1982. 
+
