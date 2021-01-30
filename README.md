@@ -344,6 +344,14 @@ Sebab saat dokumen dikirim melalui ***channel\*** yang tidak aman (***insecure c
 
 Sebagai contoh, Maudy memiliki ***document\*** yang akan dikirim untuk Gun. Untuk memastikan Gun mendapatkan dokumen digital yang asli, Maudy bisa menggunakan tanda tangan digital (***Digital Signature\***).
 
+<img src="assets/digitalsignature1.png" style="zoom:100%;" />
+
+Dokumen digital diberi tanda tangan digital oleh Maudy agar ketika dokumen sampai kepada Gun, proses verifikasi dapat dilakukan oleh Gun untuk memastikan bahwa dokumen asli dan tidak dimodifikasi.
+
+***Digital Signature\*** mengandalkan konsep ***public\*** & ***private key\***, untuk menandatangani sebuah ***document\*** Maudy dan Gun memerlukan ***software cryptography\*** yang memiliki fitur ***key generation program\*** untuk memproduksi ***public\*** & ***private key\***. 
+
+
+
 # Notes
 
 [1] Rüssmann M, Lorenz M, Gerbert P,WaldnerM, Justus J, Engel P, HarnischM(2015) Industry 4.0: the future of productivity and growth in manufacturing industries. Boston Consulting Group Publication
