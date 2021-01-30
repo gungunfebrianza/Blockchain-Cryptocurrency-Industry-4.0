@@ -571,6 +571,10 @@ Pemerintah dan Bank Central Bertanggung jawab untuk mengatur kebijakan moneter, 
 
 <img src="assets/money7.png" style="zoom:100%;" />
 
+### New Way Production of Money
+
+<img src="assets/money8.PNG" style="zoom:100%;" />
+
 
 
 <img src="assets/gungunfebrianza.png" style="zoom:100%;" />
