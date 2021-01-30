@@ -402,6 +402,14 @@ Pada algoritma ***ECDSA\***, ***public key\*** hanya dapat diproduksi dari ***pr
 
 ***Hash Function\*** adalah sebuah algoritma yang dapat mengubah *input* dengan *arbitrary length* tertentu ke dalam *output* yang memiliki ukuran *fixed* (misal 128 [*bit*](#_Bit)). Sebagai contoh pada hash algorithm SHA256 kita dapat memproduksi 40 karakter unik untuk setiap *arbitrary input length*.
 
+<img src="assets/hashing2.png" style="zoom:100%;" />
+
+***Hashing\*** adalah proses yang terjadi saat *hash function* mengolah *input* untuk memproduksi *message digest* atau *hash value*. ***Hashing\*** digunakan untuk menyembunyikan data dengan mengubahnya kedalam *message digest*.
+
+*Hash Function* memiliki beberapa *properties* di antaranya adalah ***Determinism\*** yaitu *input* yang sama akan selalu menghasilkan *output* yang sama. *Output* dari sebuah *hash* memiliki karakteristik ***Pseudorandom\***, pesan aslinya hampir mustahil untuk diketahui.
+
+
+
 # Notes
 
 [1] Rüssmann M, Lorenz M, Gerbert P,WaldnerM, Justus J, Engel P, HarnischM(2015) Industry 4.0: the future of productivity and growth in manufacturing industries. Boston Consulting Group Publication
