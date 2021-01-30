@@ -326,11 +326,17 @@ Modern Cryptography sudah menggunakan formula matematika yang rumit untuk melaku
 
 #### Public Key
 
-*Public key* adalah kunci yang bisa diberikan kepada seluruh pihak yang tertarik untuk berkomunikasi.
+**Public key** adalah kunci yang bisa diberikan kepada seluruh pihak yang tertarik untuk berkomunikasi.
 
-#### 
+#### Private Key
 
+**Private Key** adalah kunci rahasia yang harus dijaga rahasia oleh pembuatnya.
 
+### Digital Signature
+
+Salah satu permasalahan klasik dalam dunia ***cryptography\*** adalah pengamanan dokumen digital. Bagaimana suatu entitas dapat mengirim dokumen ke entitas lainnya dengan jaminan dan bukti bahwa dokumen adalah asli, tidak akan dimanipulasi. 
+
+<img src="assets/digitalsignature.png" style="zoom:100%;" />
 
 # Notes
 
