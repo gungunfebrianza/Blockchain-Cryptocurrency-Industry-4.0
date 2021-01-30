@@ -488,6 +488,26 @@ Nilai ***intrinsic\*** adalah nilai asli yang melekat pada suatu medium. Sebagai
 
 Emas memiliki karakteristik yang jumlahnya terbatas (***scarce\***) dan salah satu elemen yang tidak mengalami korosif (***durable\***). 
 
+Emas termasuk dalam kategori ***Commodity Money\***, emas juga dapat digunakan sebagai perhiasan (***jewelry\***) sehingga emas memiliki nilai tambah baru karena dapat diubah menjadi perhiasan.
+
+Nilai ***instrinsic\*** dapat bersifat subjektif, bagaimana suatu nilai harus didefinisikan karena setiap manusia memiliki kesadaran yang berbeda-beda? 
+
+Terdapat teori yang disebut dengan ***Labor Theory of Value (LTV)\***, teori ini menjelaskan bahwa nilai dari suatu barang ditentukan dari seberapa besar tenaga kerja dan modal yang dibutuhkan untuk menciptakan suatu barang. 
+
+Semakin banyak tenaga kerja dan modal yang dibutuhkan untuk memproduksi barang maka barang tersebut akan semakin bernilai. Namun, pada tahun 1871 seorang ekonomis dari austria bernama Carl Menger memperkenalkan gagasan tentang ***Subjective Value\***. 
+
+Gagasan ***subjective value\*** menjelaskan bahwa nilai dari suatu barang ditentukan oleh faktor kebutuhan (***needs\***) dan keinginan (***wants\***) manusia. Nilai bersifat independen dari faktor poduksi (***production\***).
+
+Sebagai contoh berlian 100 karat yang ditemukan di balik semak semak memiliki nilai yang sama dengan berlian yang harus didapatkan dengan cara menggali tambang puluhan kilometer. 
+
+### Commodity Money
+
+Emas adalah salah satu bentuk dan varian uang yang ada di Amerika pada abad ke 19. Saat itu ada cerita menarik terkait emas yaitu ketika ditemukannya pegunungan emas di California dan kemudian di Alaska yang menyebabkan kuantitas emas pada sirkulasi emas yang ada melonjak.
+
+Beberapa fenomena inflasi terburuk yang pernah di hadapi amerika disebabkan karena jumlah emas yang beredar terus meningkat selama abad ke 19. Saat itu emas ***adalah commodity money\*** yang tidak bisa diproduksi karena sudah tersedia di planet bumi sejak awal.
+
+Selain emas juga terdapat bentuk uang dan varian uang lainnya yang terdapat di Amerika saat itu, yaitu tembakau. Tembakau telah menjadi commodity money di bagian selatan Amerika
+
 # Notes
 
 [1] Rüssmann M, Lorenz M, Gerbert P,WaldnerM, Justus J, Engel P, HarnischM(2015) Industry 4.0: the future of productivity and growth in manufacturing industries. Boston Consulting Group Publication
