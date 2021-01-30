@@ -619,6 +619,12 @@ Driver for cashless
 
 ***bitcoins\*** adalah mata uang digital yang dapat digunakan untuk bertransaksi tanpa memerlukan bank. ***Bitcoin\*** memberikan disrupsi kepada bank sentral dalam memonopoli produksi uang di abad ini. 
 
+## Bitcoin & bitcoins
+
+<img src="assets/bitcoins.png" style="zoom:100%;" />
+
+***Bitcoin\*** & ***bitcoins\*** itu tidak sama. ***Bitcoin\*** dengan ‘B’ kapital mengacu kepada Sistem atau Protokol ***Bitcoin\*** dan ***bitcoins\*** adalah unit mata uangnya yang berbasis ***virtual\***. Mata uang ***bitcoins\*** berbeda dengan mata uang fiat yang secara legal dicetak oleh pemerintah.
+
 # Notes
 
 [1] Rüssmann M, Lorenz M, Gerbert P,WaldnerM, Justus J, Engel P, HarnischM(2015) Industry 4.0: the future of productivity and growth in manufacturing industries. Boston Consulting Group Publication
