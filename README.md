@@ -442,7 +442,11 @@ Semakin maju peradaban manusia, konsep tentang uang terus berkembang menjadi sem
 
 <img src="assets/money2.PNG" style="zoom:100%;" />
 
+Jika kita kembali ke masa lalu, uang yang kita miliki saat ini berbeda dengan uang yang dimiliki oleh orang-orang terdahulu. 
 
+Zaman dahulu gandum, sapi atau perak dapat digunakan sebagai uang melalui barter. Gandum, sapi dan perak menjadi bernilai karena sumbernya terbatas atau langka (***scarce\***). Apakah saat ini kita tetap bisa melakukan barter? Jikalau bisa, kenapa bisa? 
+
+<img src="assets/barter.png" style="zoom:100%;" />
 
 # Notes
 
