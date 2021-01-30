@@ -641,7 +641,17 @@ Driver for cashless
 
 <img src="assets/sellgs.PNG" style="zoom:100%;" />
 
+## Fiat & bitcoins
 
+<img src="assets/fiatbtc.PNG" style="zoom:100%;" />
+
+## Bitcoin Transaction
+
+<img src="assets/btctransaction.PNG" style="zoom:100%;" />
+
+## Bitcoin Wallet
+
+<img src="assets/btcwallet.PNG" style="zoom:100%;" />
 
 # Notes
 
