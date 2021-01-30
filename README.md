@@ -508,6 +508,32 @@ Beberapa fenomena inflasi terburuk yang pernah di hadapi amerika disebabkan kare
 
 Selain emas juga terdapat bentuk uang dan varian uang lainnya yang terdapat di Amerika saat itu, yaitu tembakau. Tembakau telah menjadi commodity money di bagian selatan Amerika
 
+### Fiat Money
+
+Uang yang diterbitkan pemerintah secara legal (***fiat money\***) bagaikan bahan bakar yang membuat mesin terus berputar. Uang mempermudah usaha kita untuk mengukur nilai dari suatu barang dan jasa. Uang memfasilitasi milyaran transaksi yang terjadi setiap harinya.
+
+<img src="assets/fiat.png" style="zoom:100%;" />
+
+Seringkali ketika saya berdiskusi tentang uang, mendapatkan pertanyaan seperti ini :
+
+Kenapa kita tidak kembali bertransaksi menggunakan emas?
+
+Tanpa uang fiat kita tidak memiliki pilihan selain melakukan barter menggunakan barang dan jasa setiap harinya. Barter dapat dilakukan untuk menangani transaksi yang sederhana namun pada skala yang lebih besar kegiatan transaksi menjadi tidak efisien dan memakan waktu.
+
+Dari latar belakang di atas tujuan penciptaan uang untuk mempercepat transaksi yang efektif dan efisien dalam membangun ekonomi. Aktifitas perputaran produksi, distribusi, konsumsi dan perdagangan menjadi lebih cepat.
+
+<img src="assets/economy2.png" style="zoom:100%;" />
+
+Masyarakat menggunakan ***valuable object\*** atau benda-benda yang dianggap bernilai dan layak untuk barter. Ribuan tahun lalu manusia melakukan barter menggunakan gandum, sapi, kerang, emas dan permata.
+
+Ada beberapa kekurangan jika kita melakukan barter, 
+
+### Trading Problem
+
+Sebagai contoh pada petani pisang jika mereka ingin melakukan barter antara pisang dan *strawberry*, petani pisang harus memastikan terlebih dahulu bahwa petani *strawberry* juga menginginkan pisang dan juga sebaliknya. 
+
+Jika salah satunya tidak saling membutuhkan misalkan petani *strawberry* menolak untuk ditukar dengan pisang maka akan menimbulkan ***trading problem\***  :
+
 # Notes
 
 [1] Rüssmann M, Lorenz M, Gerbert P,WaldnerM, Justus J, Engel P, HarnischM(2015) Industry 4.0: the future of productivity and growth in manufacturing industries. Boston Consulting Group Publication
