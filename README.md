@@ -1,8 +1,12 @@
-Blockchain & Cryptocurrency Di Era Industry 4.0
+# Blockchain & Cryptocurrency Di Era Industry 4.0
 
 Cover Buku ini sedang di desain.
 
 Written by Gun Gun Febrianza
+
+This Webinar is preview for introducing my book
+
+<img src="cover.jpg" style="zoom:100%;" />
 
 # Industrial Revolution
 
