@@ -448,6 +448,34 @@ Zaman dahulu gandum, sapi atau perak dapat digunakan sebagai uang melalui barter
 
 <img src="assets/barter.png" style="zoom:100%;" />
 
+Karena pada dasarnya uang adalah segala sesuatu yang dapat digunakan sebagai alat pembayaran (***medium of exchange\***).
+
+*Money is defined by people and what they do.*
+
+*When people use something as a medium of exchange, it becomes money.*
+
+Uang seringkali di definisikan melalui fungsinya yaitu :
+
+<img src="assets/money3.png" style="zoom:100%;" />
+
+## Money Properties
+
+### Medium of Exchange
+
+Makna dari ***medium of exchange\*** adalah uang harus dapat digunakan sebagai alat pembayaran yang dapat diterima secara universal. Untuk memahaminya lebih dalam kita harus memahami sejarah barter yang pernah terjadi dimasa lampau.
+
+Zaman dahulu saat era barter pembeli yang ingin membeli suatu, harus mengetahui terlebih dahulu barang apa yang diinginkan oleh si penjual agar dapat melakukan barter. Jika tidak mengetahui maka barter akan gagal.
+
+Permasalahan ini mendorong inovasi tentang konsep uang yang harus dapat diterima secara universal oleh pembeli dan penjual barang.
+
+### Unit of Account
+
+Makna dari ***unit of account\*** adalah uang harus dapat digunakan untuk mengukur nilai dari suatu barang dan jasa agar dapat dibeli atau dijual. 
+
+### Store of Value
+
+Makna dari ***store of value\*** adalah uang harus dapat digunakan untuk menyimpan sebuah nilai. Nilai yang tersimpan harus dapat digunakan di masa yang akan datang. Uang harus ‘**siap digunakan’** jika kita ingin memanfaatkannya untuk membeli suatu barang dan jasa.
+
 # Notes
 
 [1] Rüssmann M, Lorenz M, Gerbert P,WaldnerM, Justus J, Engel P, HarnischM(2015) Industry 4.0: the future of productivity and growth in manufacturing industries. Boston Consulting Group Publication
