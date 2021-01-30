@@ -649,6 +649,10 @@ Driver for cashless
 
 <img src="assets/btctransaction.PNG" style="zoom:100%;" />
 
+## Non-technical Version
+
+<img src="assets/transactiondetail.png" style="zoom:100%;" />
+
 ## Bitcoin Wallet
 
 <img src="assets/btcwallet.PNG" style="zoom:100%;" />
