@@ -633,6 +633,16 @@ Driver for cashless
 
 <img src="assets/limitless.PNG" style="zoom:100%;" />
 
+## Buy Goods & Services
+
+<img src="assets/buygs.PNG" style="zoom:100%;" />
+
+## Sell Goods & Services
+
+<img src="assets/sellgs.PNG" style="zoom:100%;" />
+
+
+
 # Notes
 
 [1] Rüssmann M, Lorenz M, Gerbert P,WaldnerM, Justus J, Engel P, HarnischM(2015) Industry 4.0: the future of productivity and growth in manufacturing industries. Boston Consulting Group Publication
