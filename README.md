@@ -657,6 +657,22 @@ Driver for cashless
 
 <img src="assets/btcwallet.PNG" style="zoom:100%;" />
 
+<img src="assets/walletcustodial.PNG" style="zoom:100%;" />
+
+<img src="assets/walletnoncustodial.PNG" style="zoom:100%;" />
+
+## Bull Mode
+
+<img src="assets/bull.png" style="zoom:100%;" />
+
+## Bear Mode
+
+<img src="assets/bear.png" style="zoom:100%;" />
+
+## Maslow Effect
+
+<img src="assets/maslow.jpg" style="zoom:100%;" />
+
 # Notes
 
 [1] Rüssmann M, Lorenz M, Gerbert P,WaldnerM, Justus J, Engel P, HarnischM(2015) Industry 4.0: the future of productivity and growth in manufacturing industries. Boston Consulting Group Publication
