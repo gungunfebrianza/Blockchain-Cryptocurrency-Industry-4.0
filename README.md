@@ -314,6 +314,8 @@ Di bawah ini adalah gambar dari laporan berjudul **The Future of Financial Servi
 
 <img src="assets/cryptology.png" style="zoom:100%;" />
 
+### Public Key Cryptography
+
 ***Public Key Cryptography\*** atau sering disebut ***Assymetric Cryptography\*** pertama kali dipublikasikan oleh **Whitfield Diffie**, **Martin Hellman** dan **Ralph Merkle** pada tahun 1976.
 
 Modern Cryptography sudah menggunakan formula matematika yang rumit untuk melakukan enkripsi (*encrypt*) dan dekripsi (*decrypt*) pada suatu data dengan menggunakan kunci pasangan yang sama.
@@ -321,6 +323,14 @@ Modern Cryptography sudah menggunakan formula matematika yang rumit untuk melaku
 *Program* yang menggunakan *Assymetric Cryptography* untuk memproduksi *Public Key & Private Key* disebut dengan ***Key Generation Program\***.
 
 <img src="assets/keygen.png" style="zoom:100%;" />
+
+#### Public Key
+
+*Public key* adalah kunci yang bisa diberikan kepada seluruh pihak yang tertarik untuk berkomunikasi.
+
+#### 
+
+
 
 # Notes
 
