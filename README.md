@@ -1,4 +1,4 @@
-# Blockchain & Cryptocurrency Di Era Industry 4.0
+Blockchain & Cryptocurrency Di Era Industry 4.0
 
 Cover Buku ini sedang di desain.
 
@@ -316,6 +316,8 @@ Di bawah ini adalah gambar dari laporan berjudul **The Future of Financial Servi
 
 **Cryptocurrency menggunakan teknologi blockchain dan cryptography, transaksi menggunakan Cryptocurrency akan diverifikasi dan diamankan menggunakan algoritma cryptography kedalam sebuah buku besar (digital ledger) yang disebut dengan** **Blockchain****.** 
 
+<img src="assets/cryptocurrency2.png" style="zoom:100%;" />
+
 ## Cryptography
 
 ***Cryptography\*** adalah ilmu untuk membuat pesan rahasia. *Cryptography* adalah salah satu cabang ilmu *cryptology* dalam sains komputer. ***Cryptology\*** adalah study ilmiah untuk melindungi informasi dan membongkar informasi rahasia. Di dalam *cryptology* terdapat cabang ilmu **Cryptoanalysis**, sebuah ilmu atau analisis untuk membongkar pesan rahasia. 
@@ -553,15 +555,43 @@ Jika kita adalah petani pisang maka kita menginginkan :
 1. Suatu medium untuk bertransaksi yang dapat diterima secara universal.
 2. Suatu medium untuk bertransaksi yang memiliki ketahanan untuk menyimpan nilai.
 
+## Money Production
+
+<img src="assets/money5.png" style="zoom:100%;" />
+
+### Money Production By Yourself
+
+Jika komoditas dapat dijadikan sebagai uang, maka kita bisa membangun asset yang bisa memproduksi berbagai komoditas. Example Tambak Udang, Usaha Sayur, Etc. Kita memiliki kendali penuh atas diri kita untuk bisa membangun asset yang dapat memproduksi komoditas sebanyak-banyaknya.
+
+<img src="assets/money6.png" style="zoom:100%;" />
+
+### Money Production By Government
+
+Pemerintah dan Bank Central Bertanggung jawab untuk mengatur kebijakan moneter, misal agar tidak terjadi inflasi yang berlebihan.
+
+<img src="assets/money7.png" style="zoom:100%;" />
+
+
+
+<img src="assets/gungunfebrianza.png" style="zoom:100%;" />
+
+
+
 # Bitcoin Protocol
 
+<img src="assets/digitalmoney.png" style="zoom:100%;" />
 
+***Bitcoin\*** adalah sekumpulan konsep dan teknologi yang digunakan untuk membentuk sebuah ekosistem uang digital (*Digital Money*) [3]
+
+***bitcoins\*** adalah mata uang digital yang dapat digunakan untuk bertransaksi tanpa memerlukan bank. ***Bitcoin\*** memberikan disrupsi kepada bank sentral dalam memonopoli produksi uang di abad ini. 
 
 # Notes
 
 [1] Rüssmann M, Lorenz M, Gerbert P,WaldnerM, Justus J, Engel P, HarnischM(2015) Industry 4.0: the future of productivity and growth in manufacturing industries. Boston Consulting Group Publication
 
 [2] Lamport, L., Shostak, R. & Pease, R., "The Byzantine Generals Problem," *ACM Transactions on Programming Languages and Systems.,* vol. 4, p. 387–389, 1982. 
+
+[3] A. M.  Antonopoulos, Mastering Bitcoin - Programming the Open Blockchain, O'reilly,  2017. 
 
 
 
