@@ -424,6 +424,10 @@ Banyak sekali fungsi internal dalam Protokol Bitcoin sangat tergantung pada **Cr
 
 **Block** yang terdiri dari sekumpulan **transaction** juga akan di **hashing** untuk memastikan tidak terdapat perubahan pada daftar transaksi di dalam **block**.
 
+#### Collision Resistance
+
+Secara komputasi *hash function* tidak boleh menghasilkan *output hash value* yang sama dari dua *input* yang berbeda.
+
 # Notes
 
 [1] Rüssmann M, Lorenz M, Gerbert P,WaldnerM, Justus J, Engel P, HarnischM(2015) Industry 4.0: the future of productivity and growth in manufacturing industries. Boston Consulting Group Publication
