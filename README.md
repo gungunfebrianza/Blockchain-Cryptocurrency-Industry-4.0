@@ -368,7 +368,13 @@ Pada gambar di bawah ini Gun menggunakan ***Public Key\*** milik maudy untuk mem
 
 Jika verifikasi dokumen hasilnya **Not Authentic** maka dokumen telah dimodifikasi sehingga **authentication** gagal. Gun Gun Febrianza dapat mengetahui bahwa dokumen yang dia dapatkan adalah palsu. Sebab perubahan satu karakter saja dalam dokumen akan terdeteksi.
 
-#### 
+#### Cryptocurrency Application
+
+Penerapan ***public key cryptography\*** bukan hanya untuk mengamankan pesan seperti dokumen, tetapi juga dapat digunakan untuk mengamankan transaksi finansial. 
+
+Sebagai contoh Maudy Ayunda dan Gun Gun Febrianza dapat menggunakan pesan yang telah diberi ***digital signature\***, untuk melakukan transfer kepemilikan sebuah aset digital sebagai bentuk pembayaran.
+
+Maudy Ayunda perlu meminta ***public key\*** milik Gun Gun Febrianza terlebih dahulu. 
 
 # Notes
 
