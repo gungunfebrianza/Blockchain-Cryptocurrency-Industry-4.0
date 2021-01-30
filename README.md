@@ -534,6 +534,19 @@ Sebagai contoh pada petani pisang jika mereka ingin melakukan barter antara pisa
 
 Jika salah satunya tidak saling membutuhkan misalkan petani *strawberry* menolak untuk ditukar dengan pisang maka akan menimbulkan ***trading problem\***  :
 
+<img src="assets/trading.png" style="zoom:100%;" />
+
+Pada kasus *trading problem* di atas kita memahami bahwa tidak semua orang membutuhkan pisang atau *strawberry*. Artinya perbedaan barang mempengaruhi faktor untuk bertransaksi. Sehingga di perlukan suatu medium untuk bertransaksi yang dapat diterima secara universal.
+
+<img src="assets/trading2.png" style="zoom:100%;" />
+
+Selain itu transaksi menggunakan pisang memiliki permasalahan ***durability problem\***, pisang dapat membusuk sehingga tidak digunakan lagi untuk melakukan barter. Sehingga diperlukan suatu medium untuk bertransaksi yang memiliki ketahanan untuk menyimpan nilai.
+
+Jika kita adalah petani pisang maka kita menginginkan :
+
+1. Suatu medium untuk bertransaksi yang dapat diterima secara universal.
+2. Suatu medium untuk bertransaksi yang memiliki ketahanan untuk menyimpan nilai.
+
 # Notes
 
 [1] Rüssmann M, Lorenz M, Gerbert P,WaldnerM, Justus J, Engel P, HarnischM(2015) Industry 4.0: the future of productivity and growth in manufacturing industries. Boston Consulting Group Publication
