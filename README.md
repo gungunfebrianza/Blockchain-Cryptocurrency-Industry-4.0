@@ -575,7 +575,7 @@ Pemerintah dan Bank Central Bertanggung jawab untuk mengatur kebijakan moneter, 
 
 <img src="assets/money8.PNG" style="zoom:100%;" />
 
-
+### A View
 
 <img src="assets/gungunfebrianza.png" style="zoom:100%;" />
 
