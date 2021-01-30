@@ -476,6 +476,18 @@ Makna dari ***unit of account\*** adalah uang harus dapat digunakan untuk menguk
 
 Makna dari ***store of value\*** adalah uang harus dapat digunakan untuk menyimpan sebuah nilai. Nilai yang tersimpan harus dapat digunakan di masa yang akan datang. Uang harus ‘**siap digunakan’** jika kita ingin memanfaatkannya untuk membeli suatu barang dan jasa.
 
+## Type of Money
+
+Setelah mempelajari konsep ***medium of exchange\*** anda mulai memahami bahwa uang dapat memiliki wujud yang berbeda-beda. Sehingga jika dikategorikan terdapat dua macam uang yaitu uang yang memiliki nilai ***intrinsic\*** dan uang yang tidak memiliki nilai ***intrinsic\***.
+
+<img src="assets/money4.png" style="zoom:100%;" />
+
+### Intrinsic Value
+
+Nilai ***intrinsic\*** adalah nilai asli yang melekat pada suatu medium. Sebagai contoh emas, kita dapat menerima emas (***gold\***) sebagai uang yang memiliki nilai ***intrinsic\***, karena emas memiliki berbagai kualitas yang dapat diandalkan (***reliable\***). 
+
+Emas memiliki karakteristik yang jumlahnya terbatas (***scarce\***) dan salah satu elemen yang tidak mengalami korosif (***durable\***). 
+
 # Notes
 
 [1] Rüssmann M, Lorenz M, Gerbert P,WaldnerM, Justus J, Engel P, HarnischM(2015) Industry 4.0: the future of productivity and growth in manufacturing industries. Boston Consulting Group Publication
