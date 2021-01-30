@@ -428,9 +428,18 @@ Banyak sekali fungsi internal dalam Protokol Bitcoin sangat tergantung pada **Cr
 
 Secara komputasi *hash function* tidak boleh menghasilkan *output hash value* yang sama dari dua *input* yang berbeda.
 
+# Money
+
+
+
 # Notes
 
 [1] Rüssmann M, Lorenz M, Gerbert P,WaldnerM, Justus J, Engel P, HarnischM(2015) Industry 4.0: the future of productivity and growth in manufacturing industries. Boston Consulting Group Publication
 
 [2] Lamport, L., Shostak, R. & Pease, R., "The Byzantine Generals Problem," *ACM Transactions on Programming Languages and Systems.,* vol. 4, p. 387–389, 1982. 
 
+
+
+
+
+Copyright PT Virtual Koin Indonesia
