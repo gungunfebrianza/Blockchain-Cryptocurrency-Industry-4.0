@@ -350,7 +350,13 @@ Dokumen digital diberi tanda tangan digital oleh Maudy agar ketika dokumen sampa
 
 ***Digital Signature\*** mengandalkan konsep ***public\*** & ***private key\***, untuk menandatangani sebuah ***document\*** Maudy dan Gun memerlukan ***software cryptography\*** yang memiliki fitur ***key generation program\*** untuk memproduksi ***public\*** & ***private key\***. 
 
+<img src="assets/digitalsignature2.png" style="zoom:100%;" />
 
+Proses untuk menandatangani sebuah dokumen membutuhkan ***private key\***, selanjutnya untuk memverifikasi tanda tangan digital diperlukan ***public key\***. Jika dokumen dapat diverifikasi menggunakan ***public key\*** maka dapat dinilai bahwa dokumen otentik.
+
+<img src="assets/digitalsignature3.png" style="zoom:100%;" />
+
+Maudy menandatangani dokumen menggunakan ***private key\***, kemudian mengirimkan ***signed document\*** dan salinan ***public key\*** kepada Gun.
 
 # Notes
 
