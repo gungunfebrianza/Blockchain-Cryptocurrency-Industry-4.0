@@ -408,7 +408,21 @@ Pada algoritma ***ECDSA\***, ***public key\*** hanya dapat diproduksi dari ***pr
 
 *Hash Function* memiliki beberapa *properties* di antaranya adalah ***Determinism\*** yaitu *input* yang sama akan selalu menghasilkan *output* yang sama. *Output* dari sebuah *hash* memiliki karakteristik ***Pseudorandom\***, pesan aslinya hampir mustahil untuk diketahui.
 
+#### Message Digest
 
+*Output* dari *hash function* disebut dengan *hash value* atau sering juga disebut dengan *message digest*. *Message Digest* dapat digunakan untuk memverifikasi [*integrity*](#_Integrity) suatu data, sehingga jika dokumen sebelumnya diubah kita dapat mengetahuinya.
+
+<img src="assets/messagedigest.png" style="zoom:100%;" />
+
+Untuk mengetahui bahwa dokumen telah diubah, jika kita bandingkan kembali nilai **message digest** pada dokumen original dan dokumen yang telah diubah maka akan memiliki perbedaan.
+
+Pada Protokol **Bitcoin**, penerapan **digital signature** yang dibuat menggunakan **private-key** dari pengguna **bitcoin** digunakan dalam **Bitcoin Transaction** dan juga digunakan untuk memverifikasi bahwa transaksi memang dilakukan oleh pemilik **private key**.
+
+**Bitcoin Address** yang digunakan untuk mengirim **bitcoins** dibuat menggunakan berbagai algoritma **hashing**. **Digital Signature** dan **Bitcoin Address** tersimpan di dalam **Bitcoin Transaction**. Jika **Digital Signature** benar maka **transfer bitcoins** dapat dikonfirmasi oleh jaringan komputer **Bitcoin**.
+
+Banyak sekali fungsi internal dalam Protokol Bitcoin sangat tergantung pada **Cryptographic Hash**, setiap **transaction** akan di **hashing** dan **message digest** akan dijadikan sebagai **digital signature** untuk memastikan tidak terdapat perubahan semenjak pertama kali transaction dibuat oleh pengirim.
+
+**Block** yang terdiri dari sekumpulan **transaction** juga akan di **hashing** untuk memastikan tidak terdapat perubahan pada daftar transaksi di dalam **block**.
 
 # Notes
 
