@@ -304,11 +304,17 @@ Next 3-5 years? to T+0 Settlement?
 
 # Cryptocurrency
 
-Cryptocurrency adalah salah satu aplikasi blockchain yang paling sukses dan fenomenal. Aplikasi dari blockchain untuk sektor industri keuangan dan produk cryptocurrency yang paling sukses adalah Bitcoin. Eksistensinya kini menjadi alternative financial channel terbaru.
+**Cryptocurrency** adalah salah satu aplikasi **blockchain** yang paling sukses dan fenomenal. Aplikasi dari blockchain untuk sektor industri keuangan dan produk **cryptocurrency** yang paling sukses adalah **Bitcoin**. Eksistensinya kini menjadi **alternative financial channel** terbaru.
 
 Di bawah ini adalah gambar dari laporan berjudul **The Future of Financial Services** dari **World Economic Forum (WEF)**. Kita bisa melihat bagaimana tim dari WEF melakukan pemetaan **Cryptocurrency** pada kategori **payments**.
 
 <img src="assets/cryptocurrency.png" style="zoom:100%;" />
+
+**Cryptocurrency** adalah mata uang digital yang menggunakan cryptography untuk meregulasi produksi jumlah mata uangnya dan memverifikasi transfer dana yang dioperasikan secara independen tanpa melalui bank sentral. 
+
+**Cryptocurrency tidak bisa dipalsukan dan kebal terhadap manipulasi. Keunikan dari Cryptocurrency adalah produksinya tidak diatur oleh satu pihak atau tersentral****. Cryptocurrency** **adalah mata uang digital yang tidak bisa dikontrol dan dikendalikan oleh pemerintah atau entitas apapun dalam hal produksi mata uangnya.** 
+
+**Cryptocurrency menggunakan teknologi blockchain dan cryptography, transaksi menggunakan Cryptocurrency akan diverifikasi dan diamankan menggunakan algoritma cryptography kedalam sebuah buku besar (digital ledger) yang disebut dengan** **Blockchain****.** 
 
 ## Cryptography
 
@@ -546,6 +552,10 @@ Jika kita adalah petani pisang maka kita menginginkan :
 
 1. Suatu medium untuk bertransaksi yang dapat diterima secara universal.
 2. Suatu medium untuk bertransaksi yang memiliki ketahanan untuk menyimpan nilai.
+
+# Bitcoin Protocol
+
+
 
 # Notes
 
