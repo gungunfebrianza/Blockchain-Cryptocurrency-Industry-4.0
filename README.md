@@ -625,6 +625,10 @@ Driver for cashless
 
 ***Bitcoin\*** & ***bitcoins\*** itu tidak sama. ***Bitcoin\*** dengan ‘B’ kapital mengacu kepada Sistem atau Protokol ***Bitcoin\*** dan ***bitcoins\*** adalah unit mata uangnya yang berbasis ***virtual\***. Mata uang ***bitcoins\*** berbeda dengan mata uang fiat yang secara legal dicetak oleh pemerintah.
 
+## Bitcoin Transaction
+
+<img src="assets/bitcointransaction.png" style="zoom:100%;" />
+
 # Notes
 
 [1] Rüssmann M, Lorenz M, Gerbert P,WaldnerM, Justus J, Engel P, HarnischM(2015) Industry 4.0: the future of productivity and growth in manufacturing industries. Boston Consulting Group Publication
